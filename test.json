@@ -130,8 +130,8 @@
                                         "display_body_text": true,
                                         "display_directions": true,
                                         "options": [
-                                            "<p>3</p>",
-                                            "<p>3</p>",
+                                            "<p>1</p>",
+                                            "<p>2</p>",
                                             "<p>3</p>"
                                         ],
                                         "multiple": false,
