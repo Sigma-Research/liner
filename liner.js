@@ -127,7 +127,7 @@ function _extractQuestion(question) {
         _question.answerEndAudio = question.config.answer_config.end_tip_urls[0].url;
     }
 
-    if (question.q_index)
+    if (question.q_index !== undefined)
         _question.q_index = question.q_index;
     if (question.containerRef)
         _question.containerRef = question.containerRef;
@@ -149,6 +149,7 @@ function _handleQuestion(questions, container) {
                 _createQuestionPage([_question],container);
             }
             else {
+                question.q_index = index;
                 question.groupRef = container.uid;
                 _handleQuestion(question.subs, question);
             }
@@ -189,6 +190,7 @@ function _handleQuestion(questions, container) {
                     continuousQuestions = [];
                 }
 
+                question.q_index = index;
                 question.containerRef = container.uid;
                 _handleQuestion(question.subs, question);
             }
