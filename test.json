@@ -1,0 +1,2713 @@
+{
+    "code": 0,
+    "message": null,
+    "data": {
+        "speak_paper": {
+            "uid": "296d3177568e473392f5",
+            "stage_id": 2,
+            "subject_id": 3,
+            "name": "没有编号-名字排序1",
+            "full_name": "",
+            "create_time": "2019-09-12 08:10:05",
+            "url": "",
+            "school_name": "",
+            "school_id": 0,
+            "grade_id": 7,
+            "textbook_version": 0,
+            "year": 2019,
+            "score": 30,
+            "region_id": 3,
+            "config": {
+                "sub_title_urls": [],
+                "name_urls": [
+                    {
+                        "name": "189b7307cb754b399eb3.mp3",
+                        "duration": 6.152344,
+                        "size": 12600,
+                        "content": "外研版初中英语七年级下册Module1同步练习试卷",
+                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/189b7307cb754b399eb3.mp3"
+                    }
+                ]
+            },
+            "sources": [
+                10,
+                11,
+                12
+            ],
+            "frequency_rate": 0,
+            "difference_rate": 0,
+            "difficulty_rate": 0,
+            "upload_user_id": 3000045,
+            "process_user_id": 0,
+            "update_time": "2019-09-12 08:10:05",
+            "mark_schemes": [],
+            "question_papers": [],
+            "publish_status": 2,
+            "business_source": 10,
+            "include_question_types": [],
+            "is_assembly": 0,
+            "sub_title": "",
+            "customize_doi_type": 0,
+            "customize_serial": "ba-zkmn-01",
+            "sections": [
+                {
+                    "uid": "0be5b921c97a4a088f6b",
+                    "paper_uid": "296d3177568e473392f5",
+                    "title": "第一部分 听力",
+                    "description": "",
+                    "config": {
+                        "title_urls": [],
+                        "description_urls": []
+                    },
+                    "serial_number": 1,
+                    "question_count": 20,
+                    "score": 30,
+                    "is_copy": 1,
+                    "origin_uid": "",
+                    "create_time": "2019-09-12 08:10:05",
+                    "update_time": "2019-09-12 08:14:46",
+                    "available": 1,
+                    "groups": [
+                        {
+                            "uid": "4681638a040d4999b4de",
+                            "section_uid": "0be5b921c97a4a088f6b",
+                            "title": "一、听录音，选择录音句子中包含的单词。每题录音播放2遍。录音结束后，你将有5秒钟的时间作答。(共5小题，每小题1分，共5分)",
+                            "description": "",
+                            "directions": "",
+                            "config": {
+                                "directions_urls": [],
+                                "title_urls": [
+                                    {
+                                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/4279e6aa2dbf4b45a3b8.mp3",
+                                        "content": "一、听录音，选择录音句子中包含的单词。每题录音播放2遍。录音结束后，你将有5秒钟的时间作答。(共5小题，每小题1分，共5分)",
+                                        "size": 29664,
+                                        "duration": 14.484375,
+                                        "name": "4279e6aa2dbf4b45a3b8.mp3"
+                                    }
+                                ],
+                                "description_urls": []
+                            },
+                            "score": 5,
+                            "question_count": 5,
+                            "serial_number": 1,
+                            "is_copy": 1,
+                            "origin_uid": "",
+                            "create_time": "2019-09-12 08:10:05",
+                            "update_time": "2019-09-12 08:14:46",
+                            "available": 1,
+                            "questions": [
+                                {
+                                    "uid": "076d9b9279704dd39ab5",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "1",
+                                    "body": "<p>Scientists have always asked the questions: with so many stars in the universe, are we alone, or is there life out there in space? Have there been visitors to the earth from other planets? Why has no one communicated with us? We do not know the answers... yet.</p>",
+                                    "answer": [
+                                        "C"
+                                    ],
+                                    "config": {
+                                        "duration": 18.22,
+                                        "size": 451942,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "df5a1749a0594c429fd76605f7da9621.mp3",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/0771813c0a8148b080b1/f49e98e6b42b4675a3323ee11119ee68.mp3",
+                                                    "duration": 0,
+                                                    "size": 225013,
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>3</p>",
+                                            "<p>3</p>",
+                                            "<p>3</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "df5a1749a0594c429fd76605f7da9621.mp3",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/a975165eb32645829ae6/d1d5328bedd84ed4880d096e2bc3a41a.mp3",
+                                                    "duration": 5.61,
+                                                    "size": 225013,
+                                                    "content": "<p>Scientists have always asked the questions: with so many stars in the universe, are we alone, or is there life out there in space? Have there been visitors to the earth from other planets? Why has no one communicated with us? We do not know the answers... yet.</p>"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "1",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 1,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 0,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "936cb5421454401d83dd",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "2",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [
+                                        "A"
+                                    ],
+                                    "config": {
+                                        "duration": 12.26,
+                                        "size": 930604,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>watch</p>",
+                                            "<p>wallet</p>",
+                                            "<p>words</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q1-2.mp3",
+                                                    "size": 464344,
+                                                    "content": "<p style=\"text-align:justify;\">1.&nbsp;&nbsp;&nbsp;&nbsp; I can’t find my watch.</p>",
+                                                    "duration": "2.63",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/e2b8c33143024202ad3c68deaa08f472.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "2",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 1,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "24c1b22f8d064cd69832",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "3",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [
+                                        "B"
+                                    ],
+                                    "config": {
+                                        "duration": 11.94,
+                                        "size": 875196,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": [
+                                                {
+                                                    "url": "",
+                                                    "size": 0,
+                                                    "duration": 0,
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>glove</p>",
+                                            "<p>gloves</p>",
+                                            "<p>love</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q1-3.mp3",
+                                                    "size": 436640,
+                                                    "content": "<p style=\"text-align:justify;\">Here are some nice gloves.</p>",
+                                                    "duration": "2.47",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/408566f13a4945559856f8e8f32dd14c.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "3",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 1,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 2,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "d97430d1d34f4d7e99d6",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "4",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [
+                                        "C"
+                                    ],
+                                    "config": {
+                                        "duration": 14.6,
+                                        "size": 1343196,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>lots</p>",
+                                            "<p>lose</p>",
+                                            "<p>lost</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q1-4.mp3",
+                                                    "size": 670640,
+                                                    "content": "<p style=\"text-align:justify;\">I lost the flowers on a bus this morning.</p>",
+                                                    "duration": "3.80",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/76be95e26d17420a9c7b8553e74c0138.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "4",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 3,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "e7f29c9c77434080be4b",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "5",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [
+                                        "B"
+                                    ],
+                                    "config": {
+                                        "duration": 13.72,
+                                        "size": 1189196,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": [
+                                                {
+                                                    "url": "",
+                                                    "size": 0,
+                                                    "duration": 0,
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>strong</p>",
+                                            "<p>strange</p>",
+                                            "<p>small</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q1-5.mp3",
+                                                    "size": 593640,
+                                                    "content": "<p style=\"text-align:justify;\">There are a lot of strange animals here.</p>",
+                                                    "duration": "3.36",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/3c677af19e0f4ee1b95e4da6a529388b.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "5",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 1,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 4,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                }
+                            ]
+                        },
+                        {
+                            "uid": "2fd8a34bfb7c4d3ea5c8",
+                            "section_uid": "0be5b921c97a4a088f6b",
+                            "title": "二、听对话，记录所缺信息。录音播放前，你将有30秒钟时间读题。录音播放2遍，录音结束后，你将有90秒钟时间完成所有题目。(共5小题，每小题1分，共5分)",
+                            "description": "",
+                            "directions": "",
+                            "config": {
+                                "directions_urls": [],
+                                "title_urls": [
+                                    {
+                                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/7380b984c6fa42d9a05f.mp3",
+                                        "content": "二、听对话，记录所缺信息。录音播放前，你将有30秒钟时间读题。录音播放2遍，录音结束后，你将有90秒钟时间完成所有题目。(共5小题，每小题1分，共5分)",
+                                        "size": 37656,
+                                        "duration": 18.386719,
+                                        "name": "7380b984c6fa42d9a05f.mp3"
+                                    }
+                                ],
+                                "description_urls": []
+                            },
+                            "score": 5,
+                            "question_count": 6,
+                            "serial_number": 2,
+                            "is_copy": 1,
+                            "origin_uid": "",
+                            "create_time": "2019-09-12 08:10:05",
+                            "update_time": "2019-09-12 08:14:46",
+                            "available": 1,
+                            "questions": [
+                                {
+                                    "uid": "be3a9cc78eac467e9199",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "6~10",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [],
+                                    "config": {
+                                        "duration": 214.81,
+                                        "size": 20727119,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 30,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q2.mp3",
+                                                    "size": 10249616,
+                                                    "content": "<p style=\"text-align:justify;\">W: Hello! Welcome to the lost and found office. What are you looking for?</p><p style=\"text-align:justify;\">M: I lost my computer.</p><p style=\"text-align:justify;\">W: We’ve got twenty computers here today. How can we find it?</p><p style=\"text-align:justify;\">M: Well, my computer is black…</p><p style=\"text-align:justify;\">W: Yes, all the computers are black. Hundreds of people leave computers, cameras and phones on the train. Sometimes we find strange things. Today we have some sausages and a chicken! We don’t know whose they are — are you looking for them, too?</p><p style=\"text-align:justify;\">M: No, I’m not. Oh, I have a photo of my son at the back of my computer.</p><p style=\"text-align:justify;\">W: Let me see. Is this one yours?</p><p style=\"text-align:justify;\">M: Yes it is! Thank you so much.</p>",
+                                                    "duration": "58.10",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/6c706678904b4b3499814fc2d534e9ff.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 0,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": false,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 5,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 6,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "9b6c8b14a76c4c4c8149",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "6~10",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [
+                                        {
+                                            "uid": "73aacb8732e64af8b171",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "6",
+                                            "body": "<p style=\"text-align:justify;\">What are you &nbsp; <span x-underline=\"\">&nbsp; &nbsp;</span> &nbsp; ?</p>",
+                                            "answer": [
+                                                "looking for"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 0,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [],
+                                                    "start_tip_urls": [],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [],
+                                                    "duration": 0,
+                                                    "end_tip_urls": []
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": true
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 1,
+                                            "serial_number": 1,
+                                            "textbook_version": 0,
+                                            "parent_id": "be3a9cc78eac467e9199",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "6",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 5,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        },
+                                        {
+                                            "uid": "6d8653179c694a4a9a6e",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "7",
+                                            "body": "<p style=\"text-align:justify;\">We've got &nbsp; <span x-underline=\"\">&nbsp; &nbsp;</span> &nbsp; computers here today.</p>",
+                                            "answer": [
+                                                "twenty"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 0,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [],
+                                                    "start_tip_urls": [],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [],
+                                                    "duration": 0,
+                                                    "end_tip_urls": []
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": true
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 1,
+                                            "serial_number": 2,
+                                            "textbook_version": 0,
+                                            "parent_id": "be3a9cc78eac467e9199",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "7",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 6,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        },
+                                        {
+                                            "uid": "7f3d5614b1eb41fdb7c3",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "8",
+                                            "body": "<p>&nbsp; <span x-underline=\"\">&nbsp; &nbsp;</span> &nbsp;of people leave computers, cameras and phones on the train.</p>",
+                                            "answer": [
+                                                "Hundreds"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 0,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [],
+                                                    "start_tip_urls": [],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [],
+                                                    "duration": 0,
+                                                    "end_tip_urls": []
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": true
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 1,
+                                            "serial_number": 3,
+                                            "textbook_version": 0,
+                                            "parent_id": "be3a9cc78eac467e9199",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "8",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 7,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        },
+                                        {
+                                            "uid": "8b41f5448d0a4a2e99dd",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "9",
+                                            "body": "<p style=\"text-align:justify;\">&nbsp;Today we have some &nbsp; <span x-underline=\"\">&nbsp; &nbsp;</span> &nbsp; and a chicken!</p>",
+                                            "answer": [
+                                                "sausages"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 0,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [],
+                                                    "start_tip_urls": [],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [],
+                                                    "duration": 0,
+                                                    "end_tip_urls": []
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": true
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 1,
+                                            "serial_number": 4,
+                                            "textbook_version": 0,
+                                            "parent_id": "be3a9cc78eac467e9199",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "9",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 8,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        },
+                                        {
+                                            "uid": "556a3414e72b4d879571",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "10",
+                                            "body": "<p style=\"text-align:justify;\">Let me see. Is this one &nbsp; <span x-underline=\"\">&nbsp; &nbsp;</span> &nbsp; ?</p>",
+                                            "answer": [
+                                                "yours"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": [
+                                                        {
+                                                            "name": "df5a1749a0594c429fd76605f7da9621.mp3",
+                                                            "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/0771813c0a8148b080b1/f5c32b47eab844e7a40c162b4cb86548.mp3",
+                                                            "duration": 5.61,
+                                                            "size": 225013,
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 0,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [
+                                                        {
+                                                            "name": "df5a1749a0594c429fd76605f7da9621.mp3",
+                                                            "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/0771813c0a8148b080b1/40c2272c008d411ea3b2d5a608ca3e07.mp3",
+                                                            "duration": 5.61,
+                                                            "size": 225013,
+                                                            "content": "<p>123456</p>"
+                                                        }
+                                                    ],
+                                                    "start_tip_urls": [
+                                                        {
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                            "duration": 1,
+                                                            "size": 958,
+                                                            "content": "<p>滴</p>"
+                                                        }
+                                                    ],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [],
+                                                    "duration": 90,
+                                                    "end_tip_urls": []
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": true
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 1,
+                                            "serial_number": 5,
+                                            "textbook_version": 0,
+                                            "parent_id": "be3a9cc78eac467e9199",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "10",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 1,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 9,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "uid": "73b32600be3048358cff",
+                            "section_uid": "0be5b921c97a4a088f6b",
+                            "title": "三、听短对话，每段对话有一个问题，请根据所听内容，选择最佳答案。每题录音播放2遍。录音结束后，你将有5秒钟的时间作答。(共5小题，每小题1分，共5分)",
+                            "description": "",
+                            "directions": "",
+                            "config": {
+                                "directions_urls": [],
+                                "title_urls": [
+                                    {
+                                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/1ed05d1e9150440a8742.mp3",
+                                        "content": "三、听短对话，每段对话有一个问题，请根据所听内容，选择最佳答案。每题录音播放2遍。录音结束后，你将有5秒钟的时间作答。(共5小题，每小题1分，共5分)",
+                                        "size": 36000,
+                                        "duration": 17.578125,
+                                        "name": "1ed05d1e9150440a8742.mp3"
+                                    }
+                                ],
+                                "description_urls": []
+                            },
+                            "score": 5,
+                            "question_count": 5,
+                            "serial_number": 3,
+                            "is_copy": 1,
+                            "origin_uid": "",
+                            "create_time": "2019-09-12 08:10:05",
+                            "update_time": "2019-09-12 08:14:46",
+                            "available": 1,
+                            "questions": [
+                                {
+                                    "uid": "de6f4e7f6b83436e8cb2",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "11",
+                                    "body": "<p>Whose football is it?</p>",
+                                    "answer": [
+                                        "B"
+                                    ],
+                                    "config": {
+                                        "duration": 24.68,
+                                        "size": 3121964,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "df5a1749a0594c429fd76605f7da9621.mp3",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/0771813c0a8148b080b1/fa9de7efcd0b4a2290119202f5c7b4ab.mp3",
+                                                    "duration": 0,
+                                                    "size": 225013,
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>It’s Tony’s.</p>",
+                                            "<p>It’s the man’s.</p>",
+                                            "<p>It’s the woman’s.</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q3-1.mp3",
+                                                    "size": 1560024,
+                                                    "content": "<p style=\"text-align:justify;\">W: Whose football is this? Is it Tony’s?</p><p style=\"text-align:justify;\">M: No, his football is under his desk. It’s mine.</p>",
+                                                    "duration": "8.84",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/0716279da3854d9ebb611aeb6df10b8b.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "11",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 1,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 10,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "07917341470248dfb3a6",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "12",
+                                    "body": "<p>What will the man do in the evening?</p>",
+                                    "answer": [
+                                        "C"
+                                    ],
+                                    "config": {
+                                        "duration": 25.72,
+                                        "size": 3304996,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": [
+                                                {
+                                                    "url": "",
+                                                    "size": 0,
+                                                    "duration": 0,
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>Play ping-pong with the woman.</p>",
+                                            "<p>Go swimming with his sister.</p>",
+                                            "<p>Go swimming with his brother.</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q3-2.mp3",
+                                                    "size": 1651540,
+                                                    "content": "<p style=\"text-align:justify;\">W: Shall we play ping-pong after school?</p><p style=\"text-align:justify;\">M: I’d love to. But I have to go swimming with my brother this evening.</p>",
+                                                    "duration": "9.36",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/6e5195e20eee44338849489bbd9be2e0.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "12",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 1,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 11,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "2880ae9eaab44313b28d",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "13",
+                                    "body": "<p>Why are the gloves near the dog's house?</p>",
+                                    "answer": [
+                                        "B"
+                                    ],
+                                    "config": {
+                                        "duration": 33.22,
+                                        "size": 4627892,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>Because the man put them there.</p>",
+                                            "<p>Because the dog took them there.</p>",
+                                            "<p>Because the woman put them there.</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q3-3.mp3",
+                                                    "size": 2312988,
+                                                    "content": "<p style=\"text-align:justify;\">M: I can’t find my gloves. I put them on my bed yesterday.</p><p style=\"text-align:justify;\">W: Look! They’re near the dog’s house. Oh, no! It’s your dog again.</p>",
+                                                    "duration": "13.11",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/3b83b52836564ed0891300eda40e2489.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "13",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 12,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "807db80a271a4f8b95d3",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "14",
+                                    "body": "<p>Where are the speakers?</p>",
+                                    "answer": [
+                                        "A"
+                                    ],
+                                    "config": {
+                                        "duration": 25,
+                                        "size": 3177788,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>In a shop.</p>",
+                                            "<p>At a school.</p>",
+                                            "<p>In a park.</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q3-4.mp3",
+                                                    "size": 1587936,
+                                                    "content": "<p style=\"text-align:justify;\">W: Good morning, sir. What can I do for you?</p><p style=\"text-align:justify;\">M: I want a coat for my son. He is five years old.</p>",
+                                                    "duration": "9.00",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/7c4f4d52c9d54bd1a42d47a237fe8913.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "14",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 13,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                },
+                                {
+                                    "uid": "c7b75daabc584d3b9cdd",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "15",
+                                    "body": "<p>Whose wallet is purple?</p>",
+                                    "answer": [
+                                        "C"
+                                    ],
+                                    "config": {
+                                        "duration": 24.78,
+                                        "size": 3138604,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "options": [
+                                            "<p>The woman’s.</p>",
+                                            "<p>The woman’s aunt’s.</p>",
+                                            "<p>The woman’s grandma’s.</p>"
+                                        ],
+                                        "multiple": false,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q3-5.mp3",
+                                                    "size": 1568344,
+                                                    "content": "<p style=\"text-align:justify;\">M: Whose wallets are they?</p><p style=\"text-align:justify;\">W: The white one is my aunt’s and the purple one is grandma’s.</p>",
+                                                    "duration": "8.89",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/f1fb543109534dd5a730ba3459def286.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 2
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 5,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 1,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 1,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "15",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 14,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                }
+                            ]
+                        },
+                        {
+                            "uid": "327136980a4a48258f59",
+                            "section_uid": "0be5b921c97a4a088f6b",
+                            "title": "四、听下面一段短文，进行朗读。你将有60秒钟时间浏览短文，随后你将听到短文录音，录音播放1遍。录音结束后，你将有90秒钟时间作答。（5分）",
+                            "description": "",
+                            "directions": "",
+                            "config": {
+                                "directions_urls": [],
+                                "title_urls": [
+                                    {
+                                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/6ab8c0f5923e4b38acf9.mp3",
+                                        "content": "四、听下面一段短文，进行朗读。你将有60秒钟时间浏览短文，随后你将听到短文录音，录音播放1遍。录音结束后，你将有90秒钟时间作答。（5分）",
+                                        "size": 33120,
+                                        "duration": 16.171875,
+                                        "name": "6ab8c0f5923e4b38acf9.mp3"
+                                    }
+                                ],
+                                "description_urls": []
+                            },
+                            "score": 5,
+                            "question_count": 1,
+                            "serial_number": 4,
+                            "is_copy": 1,
+                            "origin_uid": "",
+                            "create_time": "2019-09-12 08:10:05",
+                            "update_time": "2019-09-12 08:14:46",
+                            "available": 1,
+                            "questions": [
+                                {
+                                    "uid": "0c2fd5aed4f24ad8b474",
+                                    "description": "<p>&nbsp;</p>",
+                                    "year": 2019,
+                                    "doi": "16",
+                                    "body": "<p>Yesterday, my little brother Tom came in my room with his friends. Tom had a snake in a box and he liked the snake very much. When I came back, I found they let the snake out of his box. They couldn't catch him. I had to spend two hours looking for him. Finally, I found him in Mum's shoe! Mum was really angry. She said I shouldn't have a snake for a pet. I think I shouldn't have Tom for a brother!</p>",
+                                    "answer": [
+                                        "Yesterday, my little brother Tom came in my room with his friends. Tom had a snake in a box and he liked the snake very much. When I came back, I found they let the snake out of his box. They couldn't catch him. I had to spend two hours looking for him. Finally, I found him in Mum's shoe! Mum was really angry. She said I shouldn't have a snake for a pet. I think I shouldn't have Tom for a brother!"
+                                    ],
+                                    "config": {
+                                        "duration": 137.72,
+                                        "size": 7012060,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": []
+                                        },
+                                        "preparation_time": 60,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [
+                                                {
+                                                    "name": "Q4.mp3",
+                                                    "size": 7007144,
+                                                    "content": "<p>Yesterday, my little brother Tom came in my room with his friends. Tom had a snake in a box and he liked the snake very much. When I came back, I found they let the snake out of his box. They couldn’t catch him. I had to spend two hours looking for him. Finally, I found him in Mum’s shoe! Mum was really angry. She said I shouldn’t have a snake for a pet. I think I shouldn’t have Tom for a brother!</p>",
+                                                    "duration": "39.72",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/6f75b945fad942169df9112c69d6d231.mp3"
+                                                }
+                                            ],
+                                            "start_tip_urls": [
+                                                {
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                    "duration": 1,
+                                                    "size": 958,
+                                                    "content": "<p>滴</p>"
+                                                }
+                                            ],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 1
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 5,
+                                            "start_tip_urls": [
+                                                {
+                                                    "content": "开始录音",
+                                                    "size": 2000,
+                                                    "duration": 1,
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-START_REC.mp3"
+                                                }
+                                            ],
+                                            "duration": 90,
+                                            "end_tip_urls": [
+                                                {
+                                                    "content": "录音结束",
+                                                    "size": 1958,
+                                                    "duration": 1,
+                                                    "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-END_REC.mp3"
+                                                }
+                                            ]
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": true,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 5,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 10,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>&nbsp;</p>",
+                                    "extra_files": [],
+                                    "material_uid": "",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "16",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [],
+                                    "index": 15,
+                                    "content_id": 6141,
+                                    "content_uid": "296d3177568e473392f5",
+                                    "content_type": "speak_paper"
+                                }
+                            ]
+                        },
+                        {
+                            "uid": "5aaa082bccd74c96a3c3",
+                            "section_uid": "0be5b921c97a4a088f6b",
+                            "title": "五、听后记录并转述信息（共10分）",
+                            "description": "本大题共包含两节。 第一节，听两遍短文，然后根据所听内容和提示将所缺信息补全。你将有60秒钟时间读题，90秒钟时间补全所缺信息。（3-5个空，每空1分，共3-5分，请编辑根据所挖空数量，对分值描述进行相应调整） 第二节，听第三遍短文，然后根据所听内容和提示信息进行转述。你将有2分钟准备时间以及2分钟录音作答时间。（5分）",
+                            "directions": "",
+                            "config": {
+                                "directions_urls": [],
+                                "title_urls": [
+                                    {
+                                        "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/d0d91254077b40b98aab.mp3",
+                                        "content": "五、听后记录并转述信息（共10分）",
+                                        "size": 8136,
+                                        "duration": 3.972656,
+                                        "name": "d0d91254077b40b98aab.mp3"
+                                    }
+                                ],
+                                "description_urls": []
+                            },
+                            "score": 10,
+                            "question_count": 3,
+                            "serial_number": 5,
+                            "is_copy": 1,
+                            "origin_uid": "",
+                            "create_time": "2019-09-12 08:10:05",
+                            "update_time": "2019-09-12 08:14:46",
+                            "available": 1,
+                            "questions": [
+                                {
+                                    "uid": "6007218881ac4bf2b096",
+                                    "description": "",
+                                    "year": 2019,
+                                    "doi": "17~18",
+                                    "body": "<p>&nbsp;</p>",
+                                    "answer": [],
+                                    "config": {
+                                        "duration": 409.576094,
+                                        "size": 27916754,
+                                        "rel_approved_info": {
+                                            "approve_status": 0,
+                                            "operation_name": "teacher1@hexin.im",
+                                            "operation_id": 3000045
+                                        },
+                                        "body_audio": {
+                                            "intervals": 0,
+                                            "repeat_count": 0,
+                                            "body_urls": []
+                                        },
+                                        "display_body_audios": false,
+                                        "display_body_text": true,
+                                        "display_directions": true,
+                                        "enunciation": {
+                                            "description_urls": [],
+                                            "directions_urls": [
+                                                {
+                                                    "name": "632db1b510884dc89794.mp3",
+                                                    "duration": 31.746094,
+                                                    "size": 65016,
+                                                    "content": "本大题共包含两节。第一节，听两遍短文，然后根据所听内容和提示将所缺信息补全。你将有60秒钟时间读题，90秒钟时间补全所缺信息。（5个空，每空1分，5分）第二节，听第三遍短文，然后根据所听内容和提示信息进行转述。你将有60秒钟准备时间以及2分钟录音作答时间。（5分）",
+                                                    "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com//listening/public/paper/d0a4cb81c52e4193abf9/632db1b510884dc89794.mp3"
+                                                }
+                                            ]
+                                        },
+                                        "preparation_time": 0,
+                                        "listen": {
+                                            "intervals": 0,
+                                            "body_urls": [],
+                                            "start_tip_urls": [],
+                                            "end_tip_urls": [],
+                                            "repeat_count": 1
+                                        },
+                                        "answer_config": {
+                                            "preparation_time": 0,
+                                            "start_tip_urls": [],
+                                            "duration": 0,
+                                            "end_tip_urls": []
+                                        },
+                                        "is_display_subs": true,
+                                        "is_independent_display": false,
+                                        "is_reference": false
+                                    },
+                                    "type": 86,
+                                    "status": 1,
+                                    "region_id": 3,
+                                    "subject_id": 3,
+                                    "stage_id": 2,
+                                    "keywords": [
+                                        ""
+                                    ],
+                                    "source": [
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "business_source": 10,
+                                    "origin_id": "",
+                                    "score": 10,
+                                    "serial_number": 0,
+                                    "textbook_version": 0,
+                                    "parent_id": "",
+                                    "knowledge_ids": {
+                                        "1": [],
+                                        "2": [],
+                                        "3": [],
+                                        "4": [],
+                                        "5": []
+                                    },
+                                    "rel_old_type_id": 6,
+                                    "explanation": "",
+                                    "grade_ids": [
+                                        7
+                                    ],
+                                    "difficulty_rate": 0,
+                                    "difference_rate": 0,
+                                    "frequency_rate": 0,
+                                    "difficulty_level": 1,
+                                    "directions": "<p>本大题共包含两节。&nbsp;<br>第一节，听两遍短文，然后根据所听内容和提示将所缺信息补全。你将有60秒钟时间读题，90秒钟时间补全所缺信息。（5个空，每空1分，5分）&nbsp;<br>第二节，听第三遍短文，然后根据所听内容和提示信息进行转述。你将有60秒钟准备时间以及2分钟录音作答时间。（5分）</p>",
+                                    "extra_files": [],
+                                    "material_uid": "898a28f7e5e84c5ba76c",
+                                    "political_censor_status": 1,
+                                    "approve_status": 0,
+                                    "school_id": 0,
+                                    "answer_sheet": [],
+                                    "customize_doi": "17~18",
+                                    "is_copy": 1,
+                                    "is_sensitive": 0,
+                                    "is_boutique": 0,
+                                    "is_content_error": 0,
+                                    "is_replace": 0,
+                                    "read_only": 0,
+                                    "national_volume_type": 0,
+                                    "update_time": "2019-09-12 08:10:05",
+                                    "create_time": "2019-09-12 08:10:05",
+                                    "available": 1,
+                                    "subs": [
+                                        {
+                                            "uid": "8aaf4b843f6d41fc9851",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "17",
+                                            "body": "<p>My Grandpa：<br>When he is 36：He comes to the USA from 1.<span x-underline=\"\">&nbsp;&nbsp;&nbsp;&nbsp;</span> .He can't speak English. He studies it hard and 2.<span x-underline=\"\">&nbsp;&nbsp;&nbsp;&nbsp;</span> it well.</p><p>When he is 3. <span x-underline=\"\">&nbsp;&nbsp;&nbsp;&nbsp;</span>：He opens a 4.<span x-underline=\"\">&nbsp;&nbsp;&nbsp;&nbsp;</span> shop for women.Everyday lots of women come to buy dresses. He works late at night.He opens many shops in America. Now：He 5. <span x-underline=\"\">&nbsp;&nbsp;&nbsp;&nbsp;</span> me to work hard to be a great man.</p>",
+                                            "answer": [
+                                                "China",
+                                                "learns",
+                                                "45",
+                                                "clothes",
+                                                "teaches"
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 60,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [
+                                                        {
+                                                            "name": "Q5.mp3",
+                                                            "size": 9280316,
+                                                            "content": "<p style=\"text-align:justify;\">My grandpa is a great man. When he is 36, he moves to USA from China. When he comes to USA, he can’t speak English. But he studies it hard and learns it well. When he is 45, he opens a clothes shop for women.&nbsp; There are many beautiful dresses in his shop. Everyday, lots of women come to buy dresses they like. He works late at night. Later, he opens many shops in America. He often teaches me to work hard to be a great man.</p>",
+                                                            "duration": "52.61",
+                                                            "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/0a9e26357d5b419f84dfcf706875857e.mp3"
+                                                        }
+                                                    ],
+                                                    "start_tip_urls": [
+                                                        {
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                            "duration": 1,
+                                                            "size": 958,
+                                                            "content": "<p>滴</p>"
+                                                        }
+                                                    ],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 2
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 0,
+                                                    "start_tip_urls": [
+                                                        {
+                                                            "content": "开始录音",
+                                                            "size": 2000,
+                                                            "duration": 1,
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-START_REC.mp3"
+                                                        }
+                                                    ],
+                                                    "duration": 90,
+                                                    "end_tip_urls": [
+                                                        {
+                                                            "content": "录音结束",
+                                                            "size": 1958,
+                                                            "duration": 1,
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-END_REC.mp3"
+                                                        }
+                                                    ]
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": false
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 5,
+                                            "serial_number": 1,
+                                            "textbook_version": 0,
+                                            "parent_id": "6007218881ac4bf2b096",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 3,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "17",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 16,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        },
+                                        {
+                                            "uid": "df66953daf4c4c17a9a4",
+                                            "description": "<p>&nbsp;</p>",
+                                            "year": 2019,
+                                            "doi": "18",
+                                            "body": "<p style=\"text-align:justify;\">My grandpa is a great man. When he is 36, he moves to USA from …&nbsp;</p>",
+                                            "answer": [
+                                                "My grandpa is a great man. When he is 36, he moves to USA from China. When he comes to USA, he can't speak English. But he studies it hard and learns it well. When he is 45, he opens a clothes shop for women.  There are many beautiful dresses in his shop. Everyday, lots of women come to buy dresses they like. He works late at night. Later, he opens many shops in America. He often teaches me to work hard to be a great man."
+                                            ],
+                                            "config": {
+                                                "rel_approved_info": {
+                                                    "approve_status": 0,
+                                                    "operation_name": "teacher1@hexin.im",
+                                                    "operation_id": 3000045
+                                                },
+                                                "body_audio": {
+                                                    "intervals": 0,
+                                                    "repeat_count": 0,
+                                                    "body_urls": []
+                                                },
+                                                "display_body_audios": false,
+                                                "display_body_text": true,
+                                                "display_directions": true,
+                                                "enunciation": {
+                                                    "description_urls": [],
+                                                    "directions_urls": []
+                                                },
+                                                "preparation_time": 60,
+                                                "listen": {
+                                                    "intervals": 0,
+                                                    "body_urls": [
+                                                        {
+                                                            "name": "Q5.mp3",
+                                                            "size": 9280316,
+                                                            "content": "<p style=\"text-align:justify;\">My grandpa is a great man. When he is 36, he moves to USA from China. When he comes to USA, he can’t speak English. But he studies it hard and learns it well. When he is 45, he opens a clothes shop for women.&nbsp; There are many beautiful dresses in his shop. Everyday, lots of women come to buy dresses they like. He works late at night. Later, he opens many shops in America. He often teaches me to work hard to be a great man.</p>",
+                                                            "duration": "52.61",
+                                                            "url": "http://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/paper/d0a4cb81c52e4193abf9/5548aff05b1447febdd0182a7e033e6a.mp3"
+                                                        }
+                                                    ],
+                                                    "start_tip_urls": [
+                                                        {
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-BEEP.mp3",
+                                                            "duration": 1,
+                                                            "size": 958,
+                                                            "content": "<p>滴</p>"
+                                                        }
+                                                    ],
+                                                    "end_tip_urls": [],
+                                                    "repeat_count": 1
+                                                },
+                                                "answer_config": {
+                                                    "preparation_time": 3,
+                                                    "start_tip_urls": [
+                                                        {
+                                                            "content": "开始录音",
+                                                            "size": 2000,
+                                                            "duration": 1,
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-START_REC.mp3"
+                                                        }
+                                                    ],
+                                                    "duration": 120,
+                                                    "end_tip_urls": [
+                                                        {
+                                                            "content": "录音结束",
+                                                            "size": 1958,
+                                                            "duration": 1,
+                                                            "url": "https://sigma-content-bank.oss-cn-shanghai.aliyuncs.com/listening/public/static/SYS-END_REC.mp3"
+                                                        }
+                                                    ]
+                                                },
+                                                "is_display_subs": true,
+                                                "is_independent_display": false,
+                                                "is_reference": false
+                                            },
+                                            "type": 86,
+                                            "status": 1,
+                                            "region_id": 3,
+                                            "subject_id": 3,
+                                            "stage_id": 2,
+                                            "keywords": [
+                                                ""
+                                            ],
+                                            "source": [
+                                                10,
+                                                11,
+                                                12
+                                            ],
+                                            "business_source": 10,
+                                            "origin_id": "",
+                                            "score": 5,
+                                            "serial_number": 2,
+                                            "textbook_version": 0,
+                                            "parent_id": "6007218881ac4bf2b096",
+                                            "knowledge_ids": {
+                                                "1": [],
+                                                "2": [],
+                                                "3": [],
+                                                "4": [],
+                                                "5": []
+                                            },
+                                            "rel_old_type_id": 10,
+                                            "explanation": "",
+                                            "grade_ids": [
+                                                7
+                                            ],
+                                            "difficulty_rate": 0,
+                                            "difference_rate": 0,
+                                            "frequency_rate": 0,
+                                            "difficulty_level": 1,
+                                            "directions": "<p>&nbsp;</p>",
+                                            "extra_files": [],
+                                            "material_uid": "",
+                                            "political_censor_status": 1,
+                                            "approve_status": 0,
+                                            "school_id": 0,
+                                            "answer_sheet": [],
+                                            "customize_doi": "18",
+                                            "is_copy": 1,
+                                            "is_sensitive": 0,
+                                            "is_boutique": 0,
+                                            "is_content_error": 0,
+                                            "is_replace": 0,
+                                            "read_only": 0,
+                                            "national_volume_type": 0,
+                                            "update_time": "2019-09-12 08:10:05",
+                                            "create_time": "2019-09-12 08:10:05",
+                                            "available": 1,
+                                            "subs": [],
+                                            "index": 17,
+                                            "content_id": 6141,
+                                            "content_uid": "296d3177568e473392f5",
+                                            "content_type": "speak_paper"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "question_count": 0,
+            "leaf_question_count": 18,
+            "resource_size": 77961887,
+            "total_duration": 1246.839844,
+            "content_id": 6141,
+            "content_uid": "296d3177568e473392f5",
+            "content_type": "speak_paper"
+        }
+    }
+}
