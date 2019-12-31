@@ -5,9 +5,15 @@ let containerRefs = []; //容器对象 引用列表
 
 function _createPaperPage(paper) {
     let _paper = {
-        title: paper.name,
-        subTitle: paper.sub_title
+        // title: paper.name,
+        // subTitle: paper.sub_title
     };
+    if (paper.name) {
+        _paper.title = paper.name;
+    }
+    if (paper.sub_title) {
+        _paper.subTitle = paper.sub_title;
+    }
     if (paper.config.name_urls.length > 0) {
         _paper.titleAudio = paper.config.name_urls[0].url;
     }
@@ -19,9 +25,15 @@ function _createPaperPage(paper) {
 
 function _createSectionPage(section) {
     let _section = {
-        title: section.title,
-        description: section.description
+        // title: section.title,
+        // description: section.description
     };
+    if (section.title) {
+        _section.title = section.title;
+    }
+    if (section.description){
+        _section.description = section.description;
+    }
     if (section.config.title_urls.length > 0) {
         _section.titleAudio = section.config.title_urls[0].url;
     }
@@ -58,10 +70,19 @@ function _collectGroup(group) {
 function _extractGroup(group) {
     let _group = {
         uid: group.uid,
-        title: group.title,
-        description: group.description,
-        direction: group.directions
+        // title: group.title,
+        // description: group.description,
+        // direction: group.directions
     };
+    if (group.title) {
+        _group.title = group.title;
+    }
+    if (group.description) {
+        _group.description = group.description;
+    }
+    if (group.directions) {
+        _group.direction = group.directions;
+    }
     if (group.config.title_urls.length > 0) {
         _group.titleAudio = group.config.title_urls[0].url;
     }
@@ -82,8 +103,6 @@ function _extractQuestion(question) {
     let _question = {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
-        direction: question.directions,
-        body: question.body,
         referenceLast: question.config.is_reference,
         displayDirection: question.config.display_directions,
         displayBody: question.config.display_body_text,
@@ -92,6 +111,13 @@ function _extractQuestion(question) {
         answerPreparation: question.config.answer_config.preparation_time,
         answerDuration: question.config.answer_config.duration,
     };
+    if (question.directions && !question.directions.match(/^\s*<p>(&nbsp;)*<\/p>\s*$/)) {
+        _question.direction = question.directions;
+    }
+    if (question.body && !question.body.match(/^\s*<p>(&nbsp;)*<\/p>\s*$/)) {
+        _question.body = question.body;
+    }
+
     _question.doi = question.customize_doi ? question.customize_doi : question.doi;
 
     if (_question.relOldTypeId === 1) {
