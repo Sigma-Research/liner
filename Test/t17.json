@@ -1,0 +1,822 @@
+{
+	"code": 0,
+	"message": "5ms",
+	"data": {
+		"speak_paper": {
+			"uid": "10f91f9363bd4b05abac",
+			"name": "\u3010APP\u4e13\u9879\u3011\u6750\u6599\u9898\u5b50\u9898\u72ec\u7acb\u663e\u793a",
+			"sub_title": "",
+			"full_name": "\u804a\u57ce\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\u7b2c1\u5957",
+			"school_id": 0,
+			"school_name": "",
+			"channel_uid": "",
+			"config": {
+				"sub_title_urls": [],
+				"name_urls": [{
+					"name": "42fdfd8b633245a5891d.mp3",
+					"duration": 3.515625,
+					"size": 7200,
+					"content": "\u804a\u57ce\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\u7b2c1\u5957",
+					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/42fdfd8b633245a5891d.mp3"
+				}]
+			},
+			"status": 1,
+			"stage_id": 2,
+			"region_id": 462,
+			"subject_id": 3,
+			"type": 1,
+			"year": 2019,
+			"textbook_version": 0,
+			"sources": [11],
+			"business_source": 10,
+			"score": 5,
+			"grade_id": 9,
+			"difficulty_rate": 0,
+			"difference_rate": 0,
+			"frequency_rate": 0,
+			"description": "",
+			"url": "",
+			"extra_files": [{
+				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/95c511af38a14d9bb4a04bb542992fa6.docx",
+				"name": "\u3010\u804a\u57ce\u3011\u542c\u77ed\u6587\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898 \u7b2c1\u5957.docx"
+			}],
+			"process_user_id": 0,
+			"upload_user_id": 3000045,
+			"political_censor_user_id": 0,
+			"political_censor_status": 1,
+			"publish_status": 1,
+			"is_task": 0,
+			"is_recommend": 0,
+			"is_assembly": 0,
+			"question_papers": [],
+			"mark_schemes": [],
+			"team_id": 0,
+			"rel_exercise_uid": "",
+			"origin_uid": "",
+			"is_copy": 1,
+			"is_boutique": 0,
+			"include_question_types": [],
+			"is_free": 0,
+			"question_count": 1,
+			"size": 0,
+			"duration": 0,
+			"customize_doi_type": 0,
+			"customize_serial": "",
+			"is_lock": 0,
+			"national_volume_type": 0,
+			"update_time": 1576571266,
+			"create_time": 1576571266,
+			"available": 1,
+			"sections": [{
+				"uid": "53f495dfa9544b63a5a5",
+				"paper_uid": "10f91f9363bd4b05abac",
+				"title": "\u7b2c\u4e00\u90e8\u5206 \u53e3\u8bed",
+				"description": "",
+				"config": {
+					"title_urls": [],
+					"description_urls": []
+				},
+				"serial_number": 1,
+				"question_count": 6,
+				"score": 5,
+				"is_copy": 1,
+				"origin_uid": "",
+				"create_time": 1576571266,
+				"update_time": 1576571365,
+				"available": 1,
+				"groups": [{
+					"uid": "8355c186b5cd4cccb04c",
+					"section_uid": "53f495dfa9544b63a5a5",
+					"title": "\u542c\u77ed\u6587\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\n\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u77ed\u6587\u3002\u77ed\u6587\u540e\u67095\u4e2a\u5c0f\u9898\uff0c\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u5c06\u6709\u65f6\u95f4\u9605\u8bfb\u5404\u4e2a\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98985\u79d2\u949f\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u8bf7\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u5b8c\u6210\u4f5c\u7b54\uff0c\u4f5c\u7b54\u65f6\u95f4\u4e3a\u6bcf\u5c0f\u98988\u79d2\u949f\u3002\u8be5\u6bb5\u77ed\u6587\u8bfb\u4e24\u904d\u3002",
+					"description": "",
+					"directions": "",
+					"config": {
+						"title_urls": [{
+							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/7463aa544b974f058640.mp3",
+							"content": "\u542c\u77ed\u6587\u53e3\u5934\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u77ed\u6587\u3002\u77ed\u6587\u540e\u67095\u4e2a\u5c0f\u9898\uff0c\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u5c06\u6709\u65f6\u95f4\u9605\u8bfb\u5404\u4e2a\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98985\u79d2\u949f\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u8bf7\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u5b8c\u6210\u4f5c\u7b54\uff0c\u4f5c\u7b54\u65f6\u95f4\u4e3a\u6bcf\u5c0f\u98988\u79d2\u949f\u3002\u8be5\u6bb5\u77ed\u6587\u8bfb\u4e24\u904d\u3002",
+							"size": 69120,
+							"duration": 33.75,
+							"name": "7463aa544b974f058640.mp3"
+						}],
+						"description_urls": [],
+						"directions_urls": []
+					},
+					"score": 5,
+					"question_count": 6,
+					"serial_number": 1,
+					"is_copy": 1,
+					"origin_uid": "",
+					"create_time": 1576571266,
+					"update_time": 1576571365,
+					"available": 1,
+					"questions": [{
+						"uid": "69dcf28f38a14f769baa",
+						"description": "<p>&nbsp;<\/p>",
+						"year": 2019,
+						"doi": "1~5",
+						"body": "<p>Where did Lingling go during the winter holiday?<\/p><p>&nbsp;(Hebei Province \/ Henan Province \/ Hunan Province)<\/p><p>&nbsp;<\/p><p>Why did Lingling have to stand on the train?<\/p><p>(no ticket&nbsp;\/&nbsp;lose weight&nbsp;\/ full of people)<\/p><p>&nbsp;<\/p><p>Where did Tony go during the winter holiday?<\/p><p>(Hong Kong&nbsp;\/ Beijing&nbsp;\/ UK)<\/p><p>&nbsp;<\/p><p>How did Daming go to Hong Kong?<\/p><p>(plane&nbsp;\/ train&nbsp;\/ bus)<\/p><p>&nbsp;<\/p><p>Betty toured the city with whom?<\/p><p>(her family&nbsp;\/ her friends&nbsp;\/ herself)<\/p>",
+						"answer": [],
+						"config": {
+							"duration": 153.23,
+							"size": 1149848,
+							"rel_approved_info": {
+								"approve_status": 0,
+								"operation_name": "teacher1@hexin.im",
+								"operation_id": 3000045
+							},
+							"body_audio": {
+								"intervals": 0,
+								"repeat_count": 0,
+								"body_urls": []
+							},
+							"display_body_audios": false,
+							"display_body_text": true,
+							"display_directions": true,
+							"enunciation": {
+								"description_urls": [],
+								"directions_urls": []
+							},
+							"preparation_time": 25,
+							"listen": {
+								"intervals": 1,
+								"body_urls": [{
+									"name": "\u804a\u57ce\u542c\u77ed\u6587\u7b2c\u4e00\u5957.mp3",
+									"size": 512629,
+									"content": "<p style=\"text-align:justify;\">Lingling, Tony, Daming and Betty spent their winter holiday differently. During the winter holiday, Lingling went to see her grandparents in Henan Province by train. The train was full of people, and she had to stand for over three hours! Tony went to stay with his family in the UK. Daming flew to Hong Kong and had great fun there. Betty had quite a good time too. She went to Beijing with her family. They toured the city by bus and by taxi.<\/p>",
+									"duration": 41.56,
+									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/0f21c54ffa004d859dc881d972820046.mp3"
+								}],
+								"start_tip_urls": [{
+									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"duration": 1,
+									"size": 958,
+									"content": "<p>\u6ef4<\/p>"
+								}],
+								"end_tip_urls": [],
+								"repeat_count": 2
+							},
+							"answer_config": {
+								"preparation_time": 0,
+								"start_tip_urls": [],
+								"duration": 0,
+								"end_tip_urls": []
+							},
+							"is_display_subs": false,
+							"is_independent_display": true,
+							"is_reference": false,
+							"knowledges": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							}
+						},
+						"type": 112,
+						"status": 1,
+						"region_id": 462,
+						"subject_id": 3,
+						"stage_id": 2,
+						"keywords": [""],
+						"source": [11],
+						"business_source": 10,
+						"origin_id": "a8a53209e898454bbf48",
+						"score": 5,
+						"serial_number": 0,
+						"textbook_version": 0,
+						"parent_id": "",
+						"knowledge_ids": {
+							"1": [],
+							"2": [],
+							"3": [],
+							"4": [],
+							"5": []
+						},
+						"rel_old_type_id": 6,
+						"explanation": "",
+						"grade_ids": [9],
+						"difficulty_rate": 0,
+						"difference_rate": 0,
+						"frequency_rate": 0,
+						"difficulty_level": 1,
+						"directions": "",
+						"extra_files": [],
+						"material_uid": "6e49de36d1d94aa2b831",
+						"political_censor_status": 1,
+						"approve_status": 0,
+						"school_id": 0,
+						"answer_sheet": [],
+						"customize_doi": "1~5",
+						"is_copy": 1,
+						"is_sensitive": 0,
+						"is_boutique": 0,
+						"is_content_error": 0,
+						"is_replace": 0,
+						"read_only": 0,
+						"national_volume_type": 0,
+						"update_time": 1576571266,
+						"create_time": 1576571266,
+						"available": 1,
+						"subs": [{
+							"uid": "1885d9e444204c159da9",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "1",
+							"body": "<p>Where did Lingling go during the winter holiday?<\/p><p>(Hebei Province \/ Henan Province \/ Hunan Province)<\/p>",
+							"answer": ["Lingling went to Henan Province during the winter holiday.@@Lingling went to Henan Province.@@She went to Henan Province during the winter holiday.@@She went to Henan Province.@@Henan Province."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q1.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/42c724b8bef64edab1e85aa759135790.mp3",
+										"duration": 3.94,
+										"size": 23712,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": false,
+								"is_independent_display": true,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "405e89cbebcc44ff92ae",
+							"score": 1,
+							"serial_number": 1,
+							"textbook_version": 0,
+							"parent_id": "69dcf28f38a14f769baa",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "1",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571266,
+							"create_time": 1576571266,
+							"available": 1,
+							"subs": [],
+							"index": 0,
+							"content_id": 810815,
+							"content_uid": "10f91f9363bd4b05abac",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "220432e1a73d4045bad3",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "2",
+							"body": "<p>Why did Lingling have to stand on the train?<\/p><p>(no ticket&nbsp;\/&nbsp;lose weight&nbsp;\/ full of people)<\/p>",
+							"answer": ["Because the train was full of people.@@Because it was full of people.@@The train was full of people.@@Full of people@@Too Many People."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q2.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/710c348acbd84530bd5047c05905232a.mp3",
+										"duration": 3.87,
+										"size": 23241,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": false,
+								"is_independent_display": true,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "2b9123108ac74de19af0",
+							"score": 1,
+							"serial_number": 2,
+							"textbook_version": 0,
+							"parent_id": "69dcf28f38a14f769baa",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "2",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571266,
+							"create_time": 1576571266,
+							"available": 1,
+							"subs": [],
+							"index": 1,
+							"content_id": 810815,
+							"content_uid": "10f91f9363bd4b05abac",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "da0543e72b814b7b8001",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "3",
+							"body": "<p>Where did Tony go during the winter holiday?<\/p><p>(Hong Kong&nbsp;\/ Beijing&nbsp;\/ UK)<\/p>",
+							"answer": ["Tony went to the UK during the winter holiday.@@Tony went to the UK.@@He went to the UK during the winter holiday.@@He went to the UK.@@The UK."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q3.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/a75601f26a324fd3b38a2ada51d9648c.mp3",
+										"duration": 4.18,
+										"size": 25122,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": false,
+								"is_independent_display": true,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "93222f76b5ca41358497",
+							"score": 1,
+							"serial_number": 3,
+							"textbook_version": 0,
+							"parent_id": "69dcf28f38a14f769baa",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "3",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571266,
+							"create_time": 1576571266,
+							"available": 1,
+							"subs": [],
+							"index": 2,
+							"content_id": 810815,
+							"content_uid": "10f91f9363bd4b05abac",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "2192797279af49f58eec",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "4",
+							"body": "<p>How did Daming go to Hong Kong?<\/p><p>(plane&nbsp;\/ train&nbsp;\/ bus)<\/p>",
+							"answer": ["Daming went to Hong Kong by plane.@@He went to Hong Kong by plane.@@By plane."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q4.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/c14d1360729c4285b307880b9773f042.mp3",
+										"duration": 2.9,
+										"size": 17442,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": false,
+								"is_independent_display": true,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "478a33e34abd4fd69290",
+							"score": 1,
+							"serial_number": 4,
+							"textbook_version": 0,
+							"parent_id": "69dcf28f38a14f769baa",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "4",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571266,
+							"create_time": 1576571266,
+							"available": 1,
+							"subs": [],
+							"index": 3,
+							"content_id": 810815,
+							"content_uid": "10f91f9363bd4b05abac",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "9bafbcaeecd7470db730",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "5",
+							"body": "<p>Whom did Betty tour the city with?<\/p><p>(her family&nbsp;\/ her friends&nbsp;\/ herself)<\/p>",
+							"answer": ["Betty toured the city with her family.@@She toured the city with her family.@@With her family.@@Her family."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q5.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/09d248f14e7b4d449f12\/892abcba94174f929df5f8350a5eda69.mp3",
+										"duration": 2.22,
+										"size": 13367,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": false,
+								"is_independent_display": true,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "d19ddd9fbae2469cb150",
+							"score": 1,
+							"serial_number": 5,
+							"textbook_version": 0,
+							"parent_id": "69dcf28f38a14f769baa",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "5",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571266,
+							"create_time": 1576571266,
+							"available": 1,
+							"subs": [],
+							"index": 4,
+							"content_id": 810815,
+							"content_uid": "10f91f9363bd4b05abac",
+							"content_type": "speak_paper"
+						}]
+					}]
+				}]
+			}],
+			"leaf_question_count": 5,
+			"resource_size": 1218968,
+			"total_duration": 211.98,
+			"content_id": 810815,
+			"content_uid": "10f91f9363bd4b05abac",
+			"content_type": "speak_paper"
+		}
+	}
+}

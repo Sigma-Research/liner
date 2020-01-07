@@ -1,0 +1,772 @@
+{
+	"code": 0,
+	"message": "5ms",
+	"data": {
+		"speak_paper": {
+			"uid": "aec1954a493c42e5b1a0",
+			"name": "\u3010APP\u4e13\u9879\u3011\u6750\u6599\u9898\u548c\u5b50\u9898\u90fd\u6709\u97f3\u9891",
+			"sub_title": "",
+			"full_name": "\u804a\u57ce\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\u7b2c10\u5957",
+			"school_id": 0,
+			"school_name": "",
+			"channel_uid": "",
+			"config": {
+				"sub_title_urls": [],
+				"name_urls": [{
+					"name": "27379064ae174bc0ba3b.mp3",
+					"duration": 3.550781,
+					"size": 7272,
+					"content": "\u804a\u57ce\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\u7b2c10\u5957",
+					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/27379064ae174bc0ba3b.mp3"
+				}]
+			},
+			"status": 1,
+			"stage_id": 2,
+			"region_id": 462,
+			"subject_id": 3,
+			"type": 1,
+			"year": 2019,
+			"textbook_version": 0,
+			"sources": [11],
+			"business_source": 10,
+			"score": 5,
+			"grade_id": 9,
+			"difficulty_rate": 0,
+			"difference_rate": 0,
+			"frequency_rate": 0,
+			"description": "",
+			"url": "",
+			"extra_files": [{
+				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/6490010e9c3a4147a30a5f0ec39db4d2.mp3",
+				"name": "\u804a\u57ce\u542c\u77ed\u658710.mp3"
+			}],
+			"process_user_id": 0,
+			"upload_user_id": 3000045,
+			"political_censor_user_id": 0,
+			"political_censor_status": 1,
+			"publish_status": 1,
+			"is_task": 0,
+			"is_recommend": 0,
+			"is_assembly": 0,
+			"question_papers": [],
+			"mark_schemes": [],
+			"team_id": 0,
+			"rel_exercise_uid": "",
+			"origin_uid": "",
+			"is_copy": 1,
+			"is_boutique": 0,
+			"include_question_types": [],
+			"is_free": 0,
+			"question_count": 1,
+			"size": 0,
+			"duration": 0,
+			"customize_doi_type": 0,
+			"customize_serial": "",
+			"is_lock": 0,
+			"national_volume_type": 0,
+			"update_time": 1576571663,
+			"create_time": 1576571663,
+			"available": 1,
+			"sections": [{
+				"uid": "89757d1a4c40446dafc6",
+				"paper_uid": "aec1954a493c42e5b1a0",
+				"title": "\u7b2c\u4e00\u90e8\u5206 \u53e3\u8bed",
+				"description": "",
+				"config": {
+					"title_urls": [],
+					"description_urls": []
+				},
+				"serial_number": 1,
+				"question_count": 6,
+				"score": 5,
+				"is_copy": 1,
+				"origin_uid": "",
+				"create_time": 1576571663,
+				"update_time": 1576571761,
+				"available": 1,
+				"groups": [{
+					"uid": "f85fc9b0dc684247b075",
+					"section_uid": "89757d1a4c40446dafc6",
+					"title": "\u542c\u77ed\u6587\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\n\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u77ed\u6587\u3002\u77ed\u6587\u540e\u67095\u4e2a\u5c0f\u9898\uff0c\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u5c06\u6709\u65f6\u95f4\u9605\u8bfb\u5404\u4e2a\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98985\u79d2\u949f\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u8bf7\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u5b8c\u6210\u4f5c\u7b54\uff0c\u4f5c\u7b54\u65f6\u95f4\u4e3a\u6bcf\u5c0f\u98988\u79d2\u949f\u3002\u8be5\u6bb5\u77ed\u6587\u8bfb\u4e24\u904d\u3002",
+					"description": "",
+					"directions": "",
+					"config": {
+						"title_urls": [{
+							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/b4c620f84d9a43b69b09.mp3",
+							"content": "\u542c\u77ed\u6587\u53e3\u5934\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u77ed\u6587\u3002\u77ed\u6587\u540e\u67095\u4e2a\u5c0f\u9898\uff0c\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u5c06\u6709\u65f6\u95f4\u9605\u8bfb\u5404\u4e2a\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98985\u79d2\u949f\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u8bf7\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u5b8c\u6210\u4f5c\u7b54\uff0c\u4f5c\u7b54\u65f6\u95f4\u4e3a\u6bcf\u5c0f\u98988\u79d2\u949f\u3002\u8be5\u6bb5\u77ed\u6587\u8bfb\u4e24\u904d\u3002",
+							"size": 69120,
+							"duration": 33.75,
+							"name": "b4c620f84d9a43b69b09.mp3"
+						}],
+						"description_urls": [],
+						"directions_urls": []
+					},
+					"score": 5,
+					"question_count": 6,
+					"serial_number": 1,
+					"is_copy": 1,
+					"origin_uid": "",
+					"create_time": 1576571663,
+					"update_time": 1576571761,
+					"available": 1,
+					"questions": [{
+						"uid": "03df9be7fffa4878aa5e",
+						"description": "<p>&nbsp;<\/p>",
+						"year": 2019,
+						"doi": "1~5",
+						"body": "<p>What does Bob usually&nbsp;do at 7:30 in the morning?<\/p><p>(has breakfast&nbsp;\/ does morning exercises \/ sleeps)<\/p><p>&nbsp;<\/p><p>What do they do at nine o'clock?<\/p><p>(run&nbsp;\/&nbsp;play basketball&nbsp;\/ begin to study)<\/p><p>&nbsp;<\/p><p>What time does Alice run?<\/p><p>(at seven&nbsp;o'clock \/ at eleven o'clock \/ at nine&nbsp;o'clock)<\/p><p>&nbsp;<\/p><p>When does Bob swim?<\/p><p>(at 12:30&nbsp;\/ at 11:00&nbsp;\/ at 1:00)<\/p><p>&nbsp;<\/p><p>What does Alice often do at 12:30?<\/p><p>(sleeps&nbsp;in her&nbsp;room \/ reads in the library \/ has classes)<\/p>",
+						"answer": [],
+						"config": {
+							"duration": 172.99,
+							"size": 1310659,
+							"rel_approved_info": {
+								"approve_status": 0,
+								"operation_name": "",
+								"operation_id": 0
+							},
+							"body_audio": {
+								"intervals": 0,
+								"repeat_count": 0,
+								"body_urls": []
+							},
+							"display_body_audios": false,
+							"display_body_text": true,
+							"display_directions": true,
+							"enunciation": {
+								"description_urls": [],
+								"directions_urls": []
+							},
+							"preparation_time": 25,
+							"listen": {
+								"intervals": 1,
+								"body_urls": [{
+									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/7d992467360246348bb5ff4d279be1d7.mp3",
+									"duration": 52.12,
+									"content": "<p style=\"text-align:justify;\">Hi! I'm Alex. I'm studying in the Park School in Oxford, England. There are many activities at school. My friends do their own activities. At half past seven in the morning, I often have&nbsp;breakfast, Alice does morning exercises, but Bob usually sleeps. We begin to study at nine o'clock. We have three lessons in the morning. At eleven o'clock, I like to play basketball with Bob. Alice always runs. At half past twelve, I usually sleep in my room, Alice often reads in the library,&nbsp;but Bob swims in the pool.<\/p>",
+									"size": 597109,
+									"name": "\u804a\u57ce\u542c\u77ed\u658710.mp3"
+								}],
+								"start_tip_urls": [{
+									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"duration": 1,
+									"size": 958,
+									"content": "<p>\u6ef4<\/p>"
+								}],
+								"end_tip_urls": [],
+								"repeat_count": 2
+							},
+							"answer_config": {
+								"preparation_time": 0,
+								"start_tip_urls": [],
+								"duration": 0,
+								"end_tip_urls": []
+							},
+							"is_display_subs": true,
+							"is_independent_display": true,
+							"is_reference": false
+						},
+						"type": 112,
+						"status": 1,
+						"region_id": 462,
+						"subject_id": 3,
+						"stage_id": 2,
+						"keywords": [""],
+						"source": [11],
+						"business_source": 10,
+						"origin_id": "fa8f06d89a2c4c65a349",
+						"score": 5,
+						"serial_number": 0,
+						"textbook_version": 0,
+						"parent_id": "",
+						"knowledge_ids": {
+							"1": [],
+							"2": [],
+							"3": [],
+							"4": [],
+							"5": []
+						},
+						"rel_old_type_id": 6,
+						"explanation": "",
+						"grade_ids": [9],
+						"difficulty_rate": 0,
+						"difference_rate": 0,
+						"frequency_rate": 0,
+						"difficulty_level": 1,
+						"directions": "",
+						"extra_files": [],
+						"material_uid": "06046242b1c242129267",
+						"political_censor_status": 1,
+						"approve_status": 0,
+						"school_id": 0,
+						"answer_sheet": [],
+						"customize_doi": "1~5",
+						"is_copy": 1,
+						"is_sensitive": 0,
+						"is_boutique": 0,
+						"is_content_error": 0,
+						"is_replace": 0,
+						"read_only": 0,
+						"national_volume_type": 0,
+						"update_time": 1576571663,
+						"create_time": 1576571663,
+						"available": 1,
+						"subs": [{
+							"uid": "715255ac58d5423391f1",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "1",
+							"body": "<p>What does Bob usually&nbsp;do at 7:30 in the morning?<\/p><p>(has breakfast&nbsp;\/ does morning exercises \/ sleeps)<\/p>",
+							"answer": ["Bob usually sleeps at 7:30 in the morning.@@He usually sleeps at 7:30 in the morning.@@Bob usually sleeps.@@He usually sleeps.@@Sleeps.@@He usually sleeps at 7:30.@@Bob usually sleeps at 7:30."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q1.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/5f2bcebe91bf44f3b342a1f434a56802.mp3",
+										"duration": 4.88,
+										"size": 29354,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false,
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "1a2c9ff258ee44768b3c",
+							"score": 1,
+							"serial_number": 1,
+							"textbook_version": 0,
+							"parent_id": "03df9be7fffa4878aa5e",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "1",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571663,
+							"create_time": 1576571663,
+							"available": 1,
+							"subs": [],
+							"index": 0,
+							"content_id": 810821,
+							"content_uid": "aec1954a493c42e5b1a0",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "cd3d7a9e414148258380",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "2",
+							"body": "<p>What do they do at nine o'clock?<\/p><p>(run&nbsp;\/&nbsp;play basketball&nbsp;\/ begin to study)<\/p>",
+							"answer": ["They begin to study at nine o'clock.@@They begin to study.@@Begin to study."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q2.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/e3b90f7acc044db8ae7b78e40c04f8c6.mp3",
+										"duration": 2.69,
+										"size": 16188,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "6b92d47832c64c9c86a3",
+							"score": 1,
+							"serial_number": 2,
+							"textbook_version": 0,
+							"parent_id": "03df9be7fffa4878aa5e",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "2",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571663,
+							"create_time": 1576571663,
+							"available": 1,
+							"subs": [],
+							"index": 1,
+							"content_id": 810821,
+							"content_uid": "aec1954a493c42e5b1a0",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "0602fb7e411b435baa7b",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "3",
+							"body": "<p>What time does Alice run?<\/p><p>(at seven&nbsp;o'clock \/ at eleven o'clock \/ at nine&nbsp;o'clock)<\/p>",
+							"answer": ["Alice runs at eleven o'clock.@@She runs at eleven o'clock.@@At eleven o'clock."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q3.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/d32820d33e1446f9a8d54aa3e5d4d2f0.mp3",
+										"duration": 2.64,
+										"size": 15875,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "d045fa39ee424f028bc8",
+							"score": 1,
+							"serial_number": 3,
+							"textbook_version": 0,
+							"parent_id": "03df9be7fffa4878aa5e",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "3",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571663,
+							"create_time": 1576571663,
+							"available": 1,
+							"subs": [],
+							"index": 2,
+							"content_id": 810821,
+							"content_uid": "aec1954a493c42e5b1a0",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "72496a693ff14681acb8",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "4",
+							"body": "<p>When does Bob swim?<\/p><p>(at 12:30&nbsp;\/ at 11:00&nbsp;\/ at 1:00)<\/p>",
+							"answer": ["Bob swims at 12:30.@@He swims at 12:30.@@At 12:30.@@Bob swims at half past twelve.@@At half past twelve.@@He swims at half past twelve."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q4.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/526fc08cbbb847a496a96d20de263b4d.mp3",
+										"duration": 1.7,
+										"size": 10233,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "ad69494f6b8540168686",
+							"score": 1,
+							"serial_number": 4,
+							"textbook_version": 0,
+							"parent_id": "03df9be7fffa4878aa5e",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "4",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571663,
+							"create_time": 1576571663,
+							"available": 1,
+							"subs": [],
+							"index": 3,
+							"content_id": 810821,
+							"content_uid": "aec1954a493c42e5b1a0",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "a10e00e146a54071ad68",
+							"description": "<p>&nbsp;<\/p>",
+							"year": 2019,
+							"doi": "5",
+							"body": "<p>What does Alice often do at 12:30?<\/p><p>(sleeps&nbsp;in her&nbsp;room \/ reads in the library \/ has classes)<\/p>",
+							"answer": ["Alice often reads in the library at 12:30.@@She often reads in the library at 12:30.@@Reads in the library.@@Alice often reads in the library at half past twelve.@@She often reads in the library at half past twelve."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": [{
+										"name": "Q5.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8e658f9436d4433cbc25\/d13eeea6e88d4b08abba847ab45fb1e6.mp3",
+										"duration": 3.84,
+										"size": 23085,
+										"content": ""
+									}]
+								},
+								"display_body_audios": true,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"intervals": 0,
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 8,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false
+							},
+							"type": 112,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "165857fdb6d348e49aa1",
+							"score": 1,
+							"serial_number": 5,
+							"textbook_version": 0,
+							"parent_id": "03df9be7fffa4878aa5e",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "5",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 0,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576571663,
+							"create_time": 1576571663,
+							"available": 1,
+							"subs": [],
+							"index": 4,
+							"content_id": 810821,
+							"content_uid": "aec1954a493c42e5b1a0",
+							"content_type": "speak_paper"
+						}]
+					}]
+				}]
+			}],
+			"leaf_question_count": 5,
+			"resource_size": 1379779,
+			"total_duration": 231.74,
+			"content_id": 810821,
+			"content_uid": "aec1954a493c42e5b1a0",
+			"content_type": "speak_paper"
+		}
+	}
+}

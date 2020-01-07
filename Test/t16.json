@@ -1,0 +1,482 @@
+{
+	"code": 0,
+	"message": "5ms",
+	"data": {
+		"speak_paper": {
+			"uid": "de796d5ee7ed42aa9a68",
+			"name": "\u3010APP\u4e13\u9879\u3011\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\uff08\u4e0d\u5f15\u7528\u4e0a\u4e00\u9898\uff09",
+			"sub_title": null,
+			"full_name": "\u5317\u4eac\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\u7b2c4\u5957",
+			"school_id": 0,
+			"school_name": "",
+			"channel_uid": "",
+			"config": {
+				"sub_title_urls": [],
+				"name_urls": [{
+					"name": "a3604f496551491aa120.mp3",
+					"duration": 3.515625,
+					"size": 7200,
+					"content": "\u5317\u4eac\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\u7b2c4\u5957",
+					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/a3604f496551491aa120.mp3"
+				}]
+			},
+			"status": 1,
+			"stage_id": 2,
+			"region_id": 462,
+			"subject_id": 3,
+			"type": 1,
+			"year": 2019,
+			"textbook_version": 0,
+			"sources": [11],
+			"business_source": 10,
+			"score": 10,
+			"grade_id": 9,
+			"difficulty_rate": 0,
+			"difference_rate": 0,
+			"frequency_rate": 0,
+			"description": "",
+			"url": "",
+			"extra_files": [{
+				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/33aed28846054b028a4e0e78e74889b2.docx",
+				"name": "\u5317\u4eac\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0-10\u5957 \u738b\u79c0\u65b0.docx"
+			}],
+			"process_user_id": 0,
+			"upload_user_id": 3000045,
+			"political_censor_user_id": 0,
+			"political_censor_status": 1,
+			"publish_status": 1,
+			"is_task": 0,
+			"is_recommend": 0,
+			"is_assembly": 0,
+			"question_papers": [],
+			"mark_schemes": [],
+			"team_id": 0,
+			"rel_exercise_uid": "",
+			"origin_uid": "",
+			"is_copy": 1,
+			"is_boutique": 0,
+			"include_question_types": [],
+			"is_free": 0,
+			"question_count": 1,
+			"size": 0,
+			"duration": 0,
+			"customize_doi_type": 0,
+			"customize_serial": "",
+			"is_lock": 0,
+			"national_volume_type": 0,
+			"update_time": 1576570238,
+			"create_time": 1576570238,
+			"available": 1,
+			"sections": [{
+				"uid": "46fcb942f09244178d5a",
+				"paper_uid": "de796d5ee7ed42aa9a68",
+				"title": " ",
+				"description": "",
+				"config": {
+					"title_urls": [],
+					"description_urls": []
+				},
+				"serial_number": 1,
+				"question_count": 3,
+				"score": 10,
+				"is_copy": 1,
+				"origin_uid": "",
+				"create_time": 1576570238,
+				"update_time": 1576570303,
+				"available": 1,
+				"groups": [{
+					"uid": "9a6433539c564f9480ba",
+					"section_uid": "46fcb942f09244178d5a",
+					"title": "\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\uff08\u5171\u4e24\u8282\uff1b\u6bcf\u82825\u5206\uff0c\u517110\u5206\uff09",
+					"description": "",
+					"directions": "",
+					"config": {
+						"title_urls": [{
+							"name": "83dc4481ad5a43148bf5.mp3",
+							"duration": 5.238281,
+							"size": 10728,
+							"content": "\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\uff08\u5171\u4e24\u8282\uff1b\u6bcf\u82825\u5206\uff0c\u517110\u5206\uff09",
+							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/83dc4481ad5a43148bf5.mp3"
+						}],
+						"description_urls": [],
+						"directions_urls": []
+					},
+					"score": 10,
+					"question_count": 3,
+					"serial_number": 1,
+					"is_copy": 1,
+					"origin_uid": "",
+					"create_time": 1576570238,
+					"update_time": 1576570303,
+					"available": 1,
+					"questions": [{
+						"uid": "e1a879b89c8b4d2b881d",
+						"description": "",
+						"year": 2019,
+						"doi": "1~2",
+						"body": "",
+						"answer": [],
+						"config": {
+							"display_body_audios": false,
+							"display_body_text": true,
+							"display_directions": true,
+							"type_id": 100,
+							"options": [],
+							"knowledges": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"multiple": false,
+							"enunciation": {
+								"description_urls": [],
+								"directions_urls": [{
+									"name": "717a20961cee416886aa.mp3",
+									"duration": 22.21875,
+									"size": 45504,
+									"content": "\u542c\u77ed\u6587\uff0c\u8bb0\u5f55\u5173\u952e\u4fe1\u606f\u5e76\u8f6c\u8ff0\u77ed\u6587\u5185\u5bb9\u3002\u672c\u5927\u9898\u5171\u4e24\u8282\u3002\u7b2c\u4e00\u8282\uff0c\u542c\u4e24\u904d\u77ed\u6587\uff0c\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\uff0c\u5c06\u6240\u7f3a\u7684\u5173\u952e\u4fe1\u606f\u586b\u5199\u5728\u76f8\u5e94\u4f4d\u7f6e\u4e0a\u3002\u7b2c\u4e8c\u8282\uff0c\u542c\u7b2c\u4e09\u904d\u77ed\u6587\uff0c\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\u8fdb\u884c\u8f6c\u8ff0\u3002",
+									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/717a20961cee416886aa.mp3"
+								}]
+							},
+							"preparation_time": 0,
+							"listen": {
+								"body_urls": [],
+								"start_tip_urls": [],
+								"end_tip_urls": [],
+								"intervals": 0,
+								"repeat_count": 1
+							},
+							"answer_config": {
+								"preparation_time": 0,
+								"start_tip_urls": [],
+								"end_tip_urls": [],
+								"duration": 0
+							},
+							"body_audio": {
+								"intervals": 0,
+								"repeat_count": 1,
+								"body_urls": []
+							},
+							"is_display_subs": true,
+							"is_independent_display": true,
+							"is_reference": false,
+							"rel_approved_info": {
+								"approve_status": 0,
+								"operation_name": "",
+								"operation_id": 0
+							},
+							"size": 3165280,
+							"duration": 700.387031
+						},
+						"type": 100,
+						"status": 1,
+						"region_id": 462,
+						"subject_id": 3,
+						"stage_id": 2,
+						"keywords": [""],
+						"source": [11],
+						"business_source": 10,
+						"origin_id": "5843a5c6080249e1a47f",
+						"score": 10,
+						"serial_number": 0,
+						"textbook_version": 0,
+						"parent_id": "",
+						"knowledge_ids": {
+							"1": [],
+							"2": [],
+							"3": [],
+							"4": [],
+							"5": []
+						},
+						"rel_old_type_id": 6,
+						"explanation": "",
+						"grade_ids": [9],
+						"difficulty_rate": 0,
+						"difference_rate": 0,
+						"frequency_rate": 0,
+						"difficulty_level": 1,
+						"directions": "<p>\u542c\u77ed\u6587\uff0c\u8bb0\u5f55\u5173\u952e\u4fe1\u606f\u5e76\u8f6c\u8ff0\u77ed\u6587\u5185\u5bb9\u3002\u672c\u5927\u9898\u5171\u4e24\u8282\u3002\u7b2c\u4e00\u8282\uff0c\u542c\u4e24\u904d\u77ed\u6587\uff0c\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\uff0c\u5c06\u6240\u7f3a\u7684\u5173\u952e\u4fe1\u606f\u586b\u5199\u5728\u76f8\u5e94\u4f4d\u7f6e\u4e0a\u3002\u7b2c\u4e8c\u8282\uff0c\u542c\u7b2c\u4e09\u904d\u77ed\u6587\uff0c\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\u8fdb\u884c\u8f6c\u8ff0\u3002<\/p>",
+						"extra_files": [],
+						"material_uid": "9cb2f3dd62fd437cbba2",
+						"political_censor_status": 1,
+						"approve_status": 0,
+						"school_id": 0,
+						"answer_sheet": [],
+						"customize_doi": "1~2",
+						"is_copy": 1,
+						"is_sensitive": 0,
+						"is_boutique": 1,
+						"is_content_error": 0,
+						"is_replace": 0,
+						"read_only": 0,
+						"national_volume_type": 0,
+						"update_time": 1576570238,
+						"create_time": 1576570238,
+						"available": 1,
+						"subs": [{
+							"uid": "06498f9665624165ada4",
+							"description": "",
+							"year": 2019,
+							"doi": "1",
+							"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q72263085cde040ce90a6045962725518.png\"><\/figure><p>\u8bf7\u5728\u4ee5\u4e0b\u533a\u57df\u4f5c\u7b54:<\/p><p>1\uff0e &nbsp;<span x-underline=\"\">&nbsp; &nbsp;<\/span> &nbsp; &nbsp;2. &nbsp;<span x-underline=\"\">&nbsp; &nbsp;<\/span> &nbsp; &nbsp; 3. &nbsp;<span x-underline=\"\">&nbsp; &nbsp;<\/span> &nbsp; &nbsp;4. &nbsp;<span x-underline=\"\">&nbsp; &nbsp;<\/span> &nbsp; &nbsp;5. &nbsp;<span x-underline=\"\">&nbsp; &nbsp;<\/span> &nbsp;<\/p>",
+							"answer": ["English", "tested", "open", "free", "computer"],
+							"config": {
+								"display_body_audios": false,
+								"display_body_text": true,
+								"display_directions": true,
+								"type_id": 100,
+								"options": [],
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"multiple": false,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": [{
+										"name": "746f0c4075f94e7bae7b.mp3",
+										"duration": 16.101562,
+										"size": 32976,
+										"content": "\u542c\u540e\u8bb0\u5f55\u4fe1\u606f\uff08\u51715\u5c0f\u9898\uff1b\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\u73b0\u5728\uff0c\u4f60\u67091\u5206\u949f\u7684\u65f6\u95f4\u6d4f\u89c8\u63d0\u793a\u4fe1\u606f\u3002\u542c\u5b8c\u5f55\u97f3\u540e\uff0c\u8bf7\u572890\u79d2\u5185\u5c06\u6240\u7f3a\u4fe1\u606f\u8f93\u5165\u5230\u6307\u5b9a\u7684\u7b54\u9898\u533a\u57df\u3002",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/746f0c4075f94e7bae7b.mp3"
+									}]
+								},
+								"preparation_time": 60,
+								"listen": {
+									"body_urls": [{
+										"name": "4.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/eded110cc7314f95a1f8acfc2bfe9337.mp3",
+										"duration": 104.06,
+										"size": 1017176,
+										"content": "<p>Good morning everyone, I\u2019m Professor Garson and will be your advisor for this term. You may come to me for almost anything you need to learn about your studies, school activities and even personal problems you may have. This is your first day and I want to say something about the subjects.<\/p><p>First, everyone must take three required subjects: math, English and history. You\u2019re to be tested and will be placed at your level in English and math.<\/p><p>History is open at all levels since study is usually divided into the different historical time periods. You may choose from almost any culture and time. Unless you\u2019re studying a specific culture or time period, you\u2019re free to choose the history course that you\u2019re most interested in. As long as there\u2019s a place in the class, of course.<\/p><p>Your electives are courses that are not required and may be in fields such as science, the arts, sports, computer, business\u2014almost anything you can think of. I can help you make a plan that will include your required and elective courses.<\/p><p>Well, so much about that. Any questions?<\/p>"
+									}],
+									"start_tip_urls": [{
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+										"duration": 1,
+										"size": 958,
+										"content": "<p>\u6ef4<\/p>"
+									}],
+									"end_tip_urls": [],
+									"intervals": 1,
+									"repeat_count": 2
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [],
+									"duration": 90,
+									"end_tip_urls": []
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": []
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false,
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								}
+							},
+							"type": 100,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "fbb8300134d3400e8571",
+							"score": 5,
+							"serial_number": 1,
+							"textbook_version": 0,
+							"parent_id": "e1a879b89c8b4d2b881d",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 3,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>\u542c\u540e\u8bb0\u5f55\u4fe1\u606f\uff08\u51715\u5c0f\u9898\uff1b\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09<\/p><p>\u73b0\u5728\uff0c\u4f60\u67091\u5206\u949f\u7684\u65f6\u95f4\u6d4f\u89c8\u63d0\u793a\u4fe1\u606f\u3002\u542c\u5b8c\u5f55\u97f3\u540e\uff0c\u8bf7\u572890\u79d2\u5185\u5c06\u6240\u7f3a\u4fe1\u606f\u8f93\u5165\u5230\u6307\u5b9a\u7684\u7b54\u9898\u533a\u57df\u3002<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "1",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 1,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576570238,
+							"create_time": 1576570238,
+							"available": 1,
+							"subs": [],
+							"index": 0,
+							"content_id": 810819,
+							"content_uid": "de796d5ee7ed42aa9a68",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "36bd3c19c222408b8edb",
+							"description": "",
+							"year": 2019,
+							"doi": "2",
+							"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qaf626a0fea7e45b2b4a112b6f138f599.png\"><\/figure><p>\u8bf7\u5c06\u4f60\u6240\u542c\u5230\u7684\u5185\u5bb9\u8f6c\u8ff0\u7ed9\u6ca1\u6709\u542c\u5230\u7684\u540c\u5b66\u3002\u4f60\u7684\u8f6c\u8ff0\u53ef\u4ee5\u8fd9\u6837\u5f00\u59cb\uff1a<\/p><p><i>Professor Garson, our advisor told us something about the subjects.<\/i><\/p>",
+							"answer": ["Professor Garson, our advisor told us something about the subjects. She said that we must take three required subjects: math, English and history. We\u2019re to be tested and will be placed at our levels in English and math.\nHistory is open at all levels since study is usually divided into the different historical time periods. We may choose from almost any culture and time. Unless we\u2019re studying a specific culture or time period, we\u2019re free to choose the history course that we\u2019re most interested in, as long as there\u2019s a place in the class.\nOur electives are courses that are not required and may be in fields such as science, the arts, sports, computer, business\u2014almost anything we can think of. Professor Garson can help us make a plan that will include our required and elective courses. \n"],
+							"config": {
+								"display_body_audios": false,
+								"display_body_text": true,
+								"display_directions": true,
+								"type_id": 100,
+								"options": [],
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"multiple": false,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": [{
+										"name": "1ecd01a1b2a64b11a1d1.mp3",
+										"duration": 13.886719,
+										"size": 28440,
+										"content": "\u542c\u540e\u8f6c\u8ff0\u4fe1\u606f\uff08\u51715\u5206\uff09\u7b2c\u4e8c\u8282\uff0c\u8bf7\u518d\u542c\u4e00\u904d\u77ed\u6587\uff0c\u5b8c\u6210\u8f6c\u8ff0\u3002\u8bf7\u5c06\u4f60\u6240\u542c\u5230\u7684\u5185\u5bb9\u8f6c\u8ff0\u7ed9\u6ca1\u6709\u542c\u5230\u7684\u540c\u5b66\u3002\u4f60\u7684\u8f6c\u8ff0\u53ef\u4ee5\u8fd9\u6837\u5f00\u59cb\uff1a",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/1ecd01a1b2a64b11a1d1.mp3"
+									}]
+								},
+								"preparation_time": 0,
+								"listen": {
+									"body_urls": [{
+										"name": "4.mp3",
+										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/241b1f0ed50e466e85f5\/d9daef13debb46fe9011dfbc99f1a9f6.mp3",
+										"duration": 104.06,
+										"size": 1017176,
+										"content": "<p>Good morning everyone, I\u2019m Professor Garson and will be your advisor for this term. You may come to me for almost anything you need to learn about your studies, school activities and even personal problems you may have. This is your first day and I want to say something about the subjects.<\/p><p>First, everyone must take three required subjects: math, English and history. You\u2019re to be tested and will be placed at your level in English and math.<\/p><p>History is open at all levels since study is usually divided into the different historical time periods. You may choose from almost any culture and time. Unless you\u2019re studying a specific culture or time period, you\u2019re free to choose the history course that you\u2019re most interested in. As long as there\u2019s a place in the class, of course.<\/p><p>Your electives are courses that are not required and may be in fields such as science, the arts, sports, computer, business\u2014almost anything you can think of. I can help you make a plan that will include your required and elective courses.<\/p><p>Well, so much about that. Any questions?<\/p>"
+									}],
+									"start_tip_urls": [{
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+										"duration": 1,
+										"size": 958,
+										"content": "<p>\u6ef4<\/p>"
+									}],
+									"end_tip_urls": [],
+									"intervals": 0,
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 120,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 120,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 1,
+									"body_urls": []
+								},
+								"is_display_subs": true,
+								"is_independent_display": true,
+								"is_reference": false,
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "",
+									"operation_id": 0
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 100,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "0c8b0dba8c784201ab91",
+							"score": 5,
+							"serial_number": 2,
+							"textbook_version": 0,
+							"parent_id": "e1a879b89c8b4d2b881d",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>\u542c\u540e\u8f6c\u8ff0\u4fe1\u606f\uff08\u51715\u5206\uff09&nbsp;<br>\u7b2c\u4e8c\u8282\uff0c\u8bf7\u518d\u542c\u4e00\u904d\u77ed\u6587\uff0c\u5b8c\u6210\u8f6c\u8ff0\u3002<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "2",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 1,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576570238,
+							"create_time": 1576570238,
+							"available": 1,
+							"subs": [],
+							"index": 1,
+							"content_id": 810819,
+							"content_uid": "de796d5ee7ed42aa9a68",
+							"content_type": "speak_paper"
+						}]
+					}]
+				}]
+			}],
+			"leaf_question_count": 2,
+			"resource_size": 3176008,
+			"total_duration": 765.625313,
+			"content_id": 810819,
+			"content_uid": "de796d5ee7ed42aa9a68",
+			"content_type": "speak_paper"
+		}
+	}
+}

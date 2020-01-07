@@ -1,0 +1,584 @@
+{
+	"code": 0,
+	"message": "4ms",
+	"data": {
+		"speak_paper": {
+			"uid": "0096108d105e4ee18c84",
+			"name": "\u3010APP\u4e13\u9879\u3011\u53ea\u6709\u6750\u6599\u9898\u6709\u97f3\u9891\uff0c\u5b50\u9898\u65e0\u4efb\u4f55\u97f3\u9891",
+			"sub_title": "",
+			"full_name": "\u70df\u53f02020\u5e74\u4e2d\u8003\u6a21\u62df\u8bd5\u537702",
+			"school_id": 0,
+			"school_name": "",
+			"channel_uid": "",
+			"config": {
+				"sub_title_urls": [],
+				"name_urls": []
+			},
+			"status": 1,
+			"stage_id": 2,
+			"region_id": 462,
+			"subject_id": 3,
+			"type": 1,
+			"year": 2019,
+			"textbook_version": 0,
+			"sources": [11],
+			"business_source": 10,
+			"score": 6,
+			"grade_id": 9,
+			"difficulty_rate": 0,
+			"difference_rate": 0,
+			"frequency_rate": 0,
+			"description": "",
+			"url": "",
+			"extra_files": [{
+				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7d5db7a4cae5415b82e1\/f0375d650f2c479da07100cc986e30e8.docx",
+				"name": "\u6dc4\u535a\u5e02\u4e2d\u8003\u4eba\u673a\u5bf9\u8bdd01\u5957\u6a21\u62df\u5377.docx"
+			}],
+			"process_user_id": 0,
+			"upload_user_id": 3000045,
+			"political_censor_user_id": 0,
+			"political_censor_status": 1,
+			"publish_status": 1,
+			"is_task": 0,
+			"is_recommend": 0,
+			"is_assembly": 0,
+			"question_papers": [],
+			"mark_schemes": [],
+			"team_id": 0,
+			"rel_exercise_uid": "",
+			"origin_uid": "7d5db7a4cae5415b82e1",
+			"is_copy": 1,
+			"is_boutique": 0,
+			"include_question_types": [],
+			"is_free": 0,
+			"question_count": 1,
+			"size": 0,
+			"duration": 0,
+			"customize_doi_type": 0,
+			"customize_serial": "",
+			"is_lock": 0,
+			"national_volume_type": 0,
+			"update_time": 1576569927,
+			"create_time": 1576569927,
+			"available": 1,
+			"sections": [{
+				"uid": "f23fb0de9d264d85a039",
+				"paper_uid": "0096108d105e4ee18c84",
+				"title": "\u7b2c\u4e00\u90e8\u5206 \u53e3\u8bed",
+				"description": "(\u51711\u9898\uff0c\u6ee1\u52066\u5206)",
+				"config": {
+					"title_urls": [{
+						"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/1bedbbf20c9d41729640.mp3",
+						"content": "\u7b2c\u4e8c\u90e8\u5206\u53e3\u8bed",
+						"size": 3600,
+						"duration": 1.757812,
+						"name": "1bedbbf20c9d41729640.mp3"
+					}],
+					"description_urls": []
+				},
+				"serial_number": 1,
+				"question_count": 4,
+				"score": 6,
+				"is_copy": 1,
+				"origin_uid": "bd65fd6db28940cb8e57",
+				"create_time": 1576569927,
+				"update_time": 1576570087,
+				"available": 1,
+				"groups": [{
+					"uid": "40945dd496be4d1080cf",
+					"section_uid": "f23fb0de9d264d85a039",
+					"title": "(\u4e00) \u542c\u95ee\u9898\u56de\u7b54",
+					"description": "(\u51711\u9898\uff0c\u6ee1\u52066\u5206)",
+					"directions": "",
+					"config": {
+						"title_urls": [{
+							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5fc999d65c1e4062bd5b.mp3",
+							"content": "\u4e94\u3001\u60c5\u666f\u95ee\u7b54\uff08\u51713\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98982\u5206\uff0c\u51716\u5206\uff09",
+							"size": 11232,
+							"duration": 5.484375,
+							"name": "5fc999d65c1e4062bd5b.mp3"
+						}],
+						"description_urls": [],
+						"directions_urls": []
+					},
+					"score": 6,
+					"question_count": 4,
+					"serial_number": 1,
+					"is_copy": 1,
+					"origin_uid": "189ba3a9d85441deb448",
+					"create_time": 1576569927,
+					"update_time": 1576570087,
+					"available": 1,
+					"questions": [{
+						"uid": "272ad3e35b164ea68dea",
+						"description": "",
+						"year": 2019,
+						"doi": "1~3",
+						"body": "<p>&nbsp;<\/p>",
+						"answer": [],
+						"config": {
+							"rel_approved_info": {
+								"approve_status": 0,
+								"operation_name": "teacher1@hexin.im",
+								"operation_id": 3000045
+							},
+							"body_audio": {
+								"intervals": 0,
+								"repeat_count": 0,
+								"body_urls": []
+							},
+							"display_body_audios": false,
+							"display_body_text": true,
+							"display_directions": true,
+							"enunciation": {
+								"description_urls": [],
+								"directions_urls": [{
+									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5318c4e8ec584a16af49.mp3",
+									"content": "\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u82f1\u6587\u5bf9\u8bdd\uff0c\u5bf9\u8bdd\u542c\u4e24\u904d\u3002\u5728\u542c\u5b8c\u5bf9\u8bdd\u5e76\u505a20\u79d2\u949f\u51c6\u5907\u540e\uff0c\u8bf7\u6839\u636e\u542c\u5230\u7684\u5185\u5bb9\u548c\u5c4f\u5e55\u63d0\u793a\uff0c\u7528\u82f1\u8bed\u56de\u7b54\u95ee\u9898\u3002\u6bcf\u5c0f\u9898\u7684\u4f5c\u7b54\u65f6\u95f4\u4e3a15\u79d2\u949f\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
+									"size": 40752,
+									"duration": 19.898438,
+									"name": "5318c4e8ec584a16af49.mp3"
+								}]
+							},
+							"preparation_time": 0,
+							"listen": {
+								"body_urls": [{
+									"name": "2.mp3",
+									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71561646b2da4a4ab81e\/ac0397b34ea74031afa8087bc8bec810.mp3",
+									"duration": 26.68,
+									"size": 398195,
+									"content": "<p>W: Hi, Eric. How's your day?<\/p><p>M: It's OK. I like Monday because I have P.E. and science. They are my favorite subjects.<\/p><p>W: Who's your science teacher?<\/p><p>M: Mr Chen. His class is interesting. What's your favorite subject, Lucy?<\/p><p>W: I like music best&nbsp;because I am good at singing.<\/p><p>M: Oh, I like it too.<\/p>"
+								}],
+								"start_tip_urls": [{
+									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"duration": 1,
+									"size": 958,
+									"content": "<p>\u6ef4<\/p>"
+								}],
+								"end_tip_urls": [],
+								"intervals": 1,
+								"repeat_count": 2
+							},
+							"answer_config": {
+								"preparation_time": 3,
+								"start_tip_urls": [{
+									"content": "\u5f00\u59cb\u5f55\u97f3",
+									"size": 2000,
+									"duration": 1,
+									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+								}],
+								"duration": 10,
+								"end_tip_urls": [{
+									"content": "\u5f55\u97f3\u7ed3\u675f",
+									"size": 1958,
+									"duration": 1,
+									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+								}]
+							},
+							"is_display_subs": false,
+							"is_independent_display": true,
+							"is_reference": false,
+							"size": 854890,
+							"duration": 162.258438,
+							"knowledges": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							}
+						},
+						"type": 97,
+						"status": 1,
+						"region_id": 462,
+						"subject_id": 3,
+						"stage_id": 2,
+						"keywords": [""],
+						"source": [11],
+						"business_source": 10,
+						"origin_id": "fc721055b70b4cceaeae",
+						"score": 6,
+						"serial_number": 0,
+						"textbook_version": 0,
+						"parent_id": "",
+						"knowledge_ids": {
+							"1": [],
+							"2": [],
+							"3": [],
+							"4": [],
+							"5": []
+						},
+						"rel_old_type_id": 6,
+						"explanation": "",
+						"grade_ids": [9],
+						"difficulty_rate": 0,
+						"difference_rate": 0,
+						"frequency_rate": 0,
+						"difficulty_level": 1,
+						"directions": "<p>\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u82f1\u6587\u5bf9\u8bdd\uff0c\u5bf9\u8bdd\u542c\u4e24\u904d\u3002\u5728\u542c\u5b8c\u5bf9\u8bdd\u5e76\u505a20\u79d2\u949f\u51c6\u5907\u540e\uff0c\u8bf7\u6839\u636e\u542c\u5230\u7684\u5185\u5bb9\u548c\u5c4f\u5e55\u63d0\u793a\uff0c\u7528\u82f1\u8bed\u56de\u7b54\u95ee\u9898\u3002\u6bcf\u5c0f\u9898\u7684\u4f5c\u7b54\u65f6\u95f4\u4e3a15\u79d2\u949f\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002<\/p>",
+						"extra_files": [],
+						"material_uid": "72c7591fe4c24ac0b4cf",
+						"political_censor_status": 1,
+						"approve_status": 0,
+						"school_id": 0,
+						"answer_sheet": [],
+						"customize_doi": "1~3",
+						"is_copy": 1,
+						"is_sensitive": 0,
+						"is_boutique": 1,
+						"is_content_error": 0,
+						"is_replace": 0,
+						"read_only": 0,
+						"national_volume_type": 0,
+						"update_time": 1576569927,
+						"create_time": 1576569927,
+						"available": 1,
+						"subs": [{
+							"uid": "d7a8ecdbfada4ef48905",
+							"description": "",
+							"year": 2019,
+							"doi": "1",
+							"body": "<p>What classes does Eric have on Monday?<\/p>",
+							"answer": ["Eric has P.E. and science on Monday.@@He has P.E. and science on Monday.@@On Monday Eric has P.E. and science.@@On Monday he has P.E. and science.@@P.E. and science.@@Eric has P.E. and science.@@He has P.E. and science."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"display_body_audios": false,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"intervals": 0,
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 20,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 15,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 0,
+									"body_urls": []
+								},
+								"is_display_subs": false,
+								"is_independent_display": false,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 97,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "ee1a788874b545ca8e2a",
+							"score": 2,
+							"serial_number": 1,
+							"textbook_version": 0,
+							"parent_id": "272ad3e35b164ea68dea",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "1",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 1,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576569927,
+							"create_time": 1576569927,
+							"available": 1,
+							"subs": [],
+							"index": 0,
+							"content_id": 810818,
+							"content_uid": "0096108d105e4ee18c84",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "100b8fed57034f72b5a9",
+							"description": "",
+							"year": 2019,
+							"doi": "2",
+							"body": "<p>Who is Eric's science teacher?<\/p>",
+							"answer": ["Eric's science teacher is Mr Chen.@@His science teacher is Mr Chen.@@Mr Chen is Eric's science teacher.@@Mr Chen is his science teacher.@@Mr Chen is.@@Mr Chen."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"display_body_audios": false,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"intervals": 0,
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 15,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 0,
+									"body_urls": []
+								},
+								"is_display_subs": false,
+								"is_independent_display": false,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 97,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "6b30752bed1b44c28a1d",
+							"score": 2,
+							"serial_number": 2,
+							"textbook_version": 0,
+							"parent_id": "272ad3e35b164ea68dea",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "2",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 1,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576569927,
+							"create_time": 1576569927,
+							"available": 1,
+							"subs": [],
+							"index": 1,
+							"content_id": 810818,
+							"content_uid": "0096108d105e4ee18c84",
+							"content_type": "speak_paper"
+						}, {
+							"uid": "1f1084fbdfc244e0b098",
+							"description": "",
+							"year": 2019,
+							"doi": "3",
+							"body": "<p>Why does Lucy like music best?<\/p>",
+							"answer": ["Because she is good at singing.@@Because she's good at singing.@@Because Lucy is good at singing.@@Because she does well in singing.@@Because Lucy does well in singing.@@She is good at singing.@@She's good at singing.@@Lucy is good at singing.@@She does well in singing.@@Lucy does well in singing."],
+							"config": {
+								"rel_approved_info": {
+									"approve_status": 0,
+									"operation_name": "teacher1@hexin.im",
+									"operation_id": 3000045
+								},
+								"display_body_audios": false,
+								"display_body_text": true,
+								"display_directions": true,
+								"enunciation": {
+									"description_urls": [],
+									"directions_urls": []
+								},
+								"preparation_time": 0,
+								"listen": {
+									"body_urls": [],
+									"start_tip_urls": [],
+									"end_tip_urls": [],
+									"intervals": 0,
+									"repeat_count": 1
+								},
+								"answer_config": {
+									"preparation_time": 0,
+									"start_tip_urls": [{
+										"content": "\u5f00\u59cb\u5f55\u97f3",
+										"size": 2000,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									}],
+									"duration": 15,
+									"end_tip_urls": [{
+										"content": "\u5f55\u97f3\u7ed3\u675f",
+										"size": 1958,
+										"duration": 1,
+										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									}]
+								},
+								"body_audio": {
+									"intervals": 0,
+									"repeat_count": 0,
+									"body_urls": []
+								},
+								"is_display_subs": false,
+								"is_independent_display": false,
+								"is_reference": false,
+								"knowledges": {
+									"1": [],
+									"2": [],
+									"3": [],
+									"4": [],
+									"5": []
+								},
+								"correct_keywords": [],
+								"error_keywords": []
+							},
+							"type": 97,
+							"status": 1,
+							"region_id": 462,
+							"subject_id": 3,
+							"stage_id": 2,
+							"keywords": [""],
+							"source": [11],
+							"business_source": 10,
+							"origin_id": "a395f32814044b51b5d6",
+							"score": 2,
+							"serial_number": 3,
+							"textbook_version": 0,
+							"parent_id": "272ad3e35b164ea68dea",
+							"knowledge_ids": {
+								"1": [],
+								"2": [],
+								"3": [],
+								"4": [],
+								"5": []
+							},
+							"rel_old_type_id": 10,
+							"explanation": "",
+							"grade_ids": [9],
+							"difficulty_rate": 0,
+							"difference_rate": 0,
+							"frequency_rate": 0,
+							"difficulty_level": 1,
+							"directions": "<p>&nbsp;<\/p>",
+							"extra_files": [],
+							"material_uid": "",
+							"political_censor_status": 1,
+							"approve_status": 0,
+							"school_id": 0,
+							"answer_sheet": [],
+							"customize_doi": "3",
+							"is_copy": 1,
+							"is_sensitive": 0,
+							"is_boutique": 1,
+							"is_content_error": 0,
+							"is_replace": 0,
+							"read_only": 0,
+							"national_volume_type": 0,
+							"update_time": 1576569927,
+							"create_time": 1576569927,
+							"available": 1,
+							"subs": [],
+							"index": 2,
+							"content_id": 810818,
+							"content_uid": "0096108d105e4ee18c84",
+							"content_type": "speak_paper"
+						}]
+					}]
+				}]
+			}],
+			"leaf_question_count": 3,
+			"resource_size": 869722,
+			"total_duration": 169.500625,
+			"content_id": 810818,
+			"content_uid": "0096108d105e4ee18c84",
+			"content_type": "speak_paper"
+		}
+	}
+}
