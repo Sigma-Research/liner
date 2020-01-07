@@ -105,13 +105,22 @@ function _extractQuestion(question) {
     let _question = {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
-        displayDirection: question.config.display_directions,
-        displayBody: question.config.display_body_text,
-        displayBodyAudio: question.config.display_body_audios,
-        playPreparation: question.config.preparation_time,
-        answerPreparation: question.config.answer_config.preparation_time,
-        answerDuration: question.config.answer_config.duration,
     };
+
+    _question.displayDirection = !!question.config.display_directions;
+    _question.displayBody = !!question.config.display_body_text;
+    _question.displayBodyAudio = !!question.config.display_body_audios;
+
+    if (question.config.preparation_time) {
+        _question.playPreparation = question.config.preparation_time;
+    }
+    if (question.config.answer_config.preparation_time) {
+        _question.answerPreparation = question.config.answer_config.preparation_time;
+    }
+    if (question.config.answer_config.duration) {
+        _question.answerDuration = question.config.answer_config.duration;
+    }
+
     if (question.directions && !question.directions.match(/^\s*<p>(&nbsp;)*<\/p>\s*$/)) {
         _question.direction = question.directions;
     }
