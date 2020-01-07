@@ -3,6 +3,8 @@ let pages = []; //最终生成的页面列表
 let groupRefs = []; //组对象 引用列表
 let containerRefs = []; //容器对象 引用列表
 
+let lastQuestion = null;
+
 function _createPaperPage(paper) {
     let _paper = {
         // title: paper.name,
@@ -103,7 +105,6 @@ function _extractQuestion(question) {
     let _question = {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
-        referenceLast: question.config.is_reference,
         displayDirection: question.config.display_directions,
         displayBody: question.config.display_body_text,
         displayBodyAudio: question.config.display_body_audios,
@@ -159,6 +160,18 @@ function _extractQuestion(question) {
         _question.containerRef = question.containerRef;
     if (question.groupRef)
         _question.groupRef = question.groupRef;
+
+    if (question.config.is_reference && lastQuestion && lastQuestion.body) {
+        if (!_question.body) {
+            _question.body = lastQuestion.body;
+        }
+        else {
+            _question.body = lastQuestion.body + _question.body;
+        }
+    }
+    if (_question.relOldTypeId !== 6) {
+        lastQuestion = _question;
+    }
 
     return _question;
 }
@@ -233,6 +246,7 @@ module.exports = paper => {
     pages = [];
     groupRefs = [];
     containerRefs = [];
+    lastQuestion = null;
 
     if (paper.name) {
         _createPaperPage(paper);
