@@ -814,7 +814,7 @@
 							"size": 783362,
 							"is_reference": false,
 							"is_independent_display": false,
-							"is_display_subs": false,
+							"is_display_subs": true,
 							"answer_config": {
 								"end_tip_urls": [{
 									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
