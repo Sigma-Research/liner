@@ -114,10 +114,11 @@ function _extractQuestion(question) {
     if (question.config.preparation_time) {
         _question.playPreparation = question.config.preparation_time;
     }
-    if (question.config.answer_config.preparation_time) {
+    //作答准备和作答持续时间 对容器无效
+    if (question.config.answer_config.preparation_time && question.rel_old_type_id !== 6) {
         _question.answerPreparation = question.config.answer_config.preparation_time;
     }
-    if (question.config.answer_config.duration) {
+    if (question.config.answer_config.duration && question.rel_old_type_id !== 6) {
         _question.answerDuration = question.config.answer_config.duration;
     }
 
@@ -178,7 +179,7 @@ function _extractQuestion(question) {
             _question.body = lastQuestion.body + _question.body;
         }
     }
-    if (_question.relOldTypeId !== 6) {
+    if (_question.relOldTypeId !== 6) { //引用前一题，前一题不能是容器
         lastQuestion = _question;
     }
 
@@ -257,12 +258,12 @@ module.exports = paper => {
     containerRefs = [];
     lastQuestion = null;
 
-    if (paper.name) {
+    if (paper.name && !paper.name.match(/^\s+$/)) {
         _createPaperPage(paper);
     }
 
     paper.sections.forEach(section => {
-        if (section.title) {
+        if (section.title && !section.title.match(/^\s+$/)) {
             _createSectionPage(section);
         }
 
