@@ -155,11 +155,13 @@ function _extractQuestion(question) {
         _question.bodyAudioRepeat = question.config.body_audio.repeat_count;
         _question.bodyAudioInterval = question.config.body_audio.intervals;
     }
-    if (question.config.answer_config.start_tip_urls.length > 0 &&
+    if (question.rel_old_type_id !== 6 &&
+        question.config.answer_config.start_tip_urls.length > 0 &&
         question.config.answer_config.start_tip_urls[0].url) {
         _question.answerStartAudio = question.config.answer_config.start_tip_urls[0].url;
     }
-    if (question.config.answer_config.end_tip_urls.length > 0 &&
+    if (question.rel_old_type_id !== 6 &&
+        question.config.answer_config.end_tip_urls.length > 0 &&
         question.config.answer_config.end_tip_urls[0].url) {
         _question.answerEndAudio = question.config.answer_config.end_tip_urls[0].url;
     }
