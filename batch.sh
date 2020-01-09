@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm Test/out*
+
 index=1
 for test in `ls Test | sort`
 do
