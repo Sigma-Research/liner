@@ -12,7 +12,7 @@
 			"channel_uid": "",
 			"config": {
 				"name_urls": [{
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/a7588c04f1774c928505.mp3",
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/a7588c04f1774c928505.mp3",
 					"content": "\u3010\u4e13\u9879\u6d4b\u8bd5\u3011\u6240\u6709type\u6d4b\u8bd5--\u8865\u5145",
 					"size": 6552,
 					"duration": 3.199219,
@@ -71,14 +71,14 @@
 				"description": "(\u51714\u9898\uff0c\u6ee1\u520614\u5206)",
 				"config": {
 					"description_urls": [{
-						"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/8e32747d71044e979874.mp3",
+						"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/8e32747d71044e979874.mp3",
 						"content": "(\u51714\u9898\uff0c\u6ee1\u520614\u5206)",
 						"size": 5184,
 						"duration": 2.53125,
 						"name": "8e32747d71044e979874.mp3"
 					}],
 					"title_urls": [{
-						"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/d6097af0da724d07b912.mp3",
+						"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/d6097af0da724d07b912.mp3",
 						"content": "\u7b2c\u4e00\u90e8\u5206\u53e3\u8bed",
 						"size": 3456,
 						"duration": 1.6875,
@@ -102,14 +102,14 @@
 					"config": {
 						"directions_urls": [],
 						"description_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/b75bb079813c4d7eb4b2.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/b75bb079813c4d7eb4b2.mp3",
 							"content": "(\u51712\u9898\uff0c\u6ee1\u52067\u5206)",
 							"size": 4608,
 							"duration": 2.25,
 							"name": "b75bb079813c4d7eb4b2.mp3"
 						}],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/21fc5996a7944c0cb062.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/21fc5996a7944c0cb062.mp3",
 							"content": "(\u4e00)\u6717\u8bfb\u77ed\u6587",
 							"size": 4032,
 							"duration": 1.96875,
@@ -144,14 +144,14 @@
 							},
 							"answer_config": {
 								"end_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 									"duration": 1,
 									"size": 1958,
 									"content": "\u5f55\u97f3\u7ed3\u675f"
 								}],
 								"duration": 5,
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 									"duration": 1,
 									"size": 2000,
 									"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -168,7 +168,7 @@
 							"preparation_time": 5,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/9daa54f568b64ac8a287.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/9daa54f568b64ac8a287.mp3",
 									"content": "94-word",
 									"size": 4896,
 									"duration": 2.390625,
@@ -265,14 +265,14 @@
 							},
 							"answer_config": {
 								"end_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 									"duration": 1,
 									"size": 1958,
 									"content": "\u5f55\u97f3\u7ed3\u675f"
 								}],
 								"duration": 60,
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 									"duration": 1,
 									"size": 2000,
 									"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -289,7 +289,7 @@
 							"preparation_time": 10,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/c0cdf12e692d49179e1c.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/c0cdf12e692d49179e1c.mp3",
 									"content": "94-para",
 									"size": 4464,
 									"duration": 2.179688,
@@ -376,14 +376,14 @@
 					"config": {
 						"directions_urls": [],
 						"description_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/81ac6b5161e74ee2971b.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/81ac6b5161e74ee2971b.mp3",
 							"content": "(\u51712\u9898\uff0c\u6ee1\u52067\u5206)",
 							"size": 4608,
 							"duration": 2.25,
 							"name": "81ac6b5161e74ee2971b.mp3"
 						}],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/59995a9f72d0430cb423.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/59995a9f72d0430cb423.mp3",
 							"content": "(\u4e8c)\u542c\u540e\u8bb0\u5f55\u5e76\u6717\u8bfb\uff08\u6f4d\u574a\uff09",
 							"size": 6408,
 							"duration": 3.128906,
@@ -418,14 +418,14 @@
 							},
 							"answer_config": {
 								"end_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 									"duration": 1,
 									"size": 1958,
 									"content": "\u5f55\u97f3\u7ed3\u675f"
 								}],
 								"duration": 5,
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 									"duration": 1,
 									"size": 2000,
 									"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -442,7 +442,7 @@
 							"preparation_time": 10,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/0ed277dddb484b238b98.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/0ed277dddb484b238b98.mp3",
 									"content": "103-word",
 									"size": 5256,
 									"duration": 2.566406,
@@ -539,14 +539,14 @@
 							},
 							"answer_config": {
 								"end_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 									"duration": 1,
 									"size": 1958,
 									"content": "\u5f55\u97f3\u7ed3\u675f"
 								}],
 								"duration": 60,
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 									"duration": 1,
 									"size": 2000,
 									"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -563,7 +563,7 @@
 							"preparation_time": 10,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/f9c0d183ff484e6f9a8a.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/71e81078f7c148fa9c67\/f9c0d183ff484e6f9a8a.mp3",
 									"content": "103-para",
 									"size": 4752,
 									"duration": 2.320312,

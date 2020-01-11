@@ -17,7 +17,7 @@
 					"duration": 4.851562,
 					"size": 9936,
 					"content": "\u6dc4\u535a\u9c81\u53eb\u7248\u4e03\u5e74\u7ea7\u4e0b\u518c\u7b2c5\u5355\u5143\u542c\u8bf4\u6d4b\u8bd5\uff08\u4e00\uff09",
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/1ece9e48f33c4f5c8966.mp3"
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/1ece9e48f33c4f5c8966.mp3"
 				}]
 			},
 			"status": 1,
@@ -37,7 +37,7 @@
 			"description": "",
 			"url": "",
 			"extra_files": [{
-				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7d5db7a4cae5415b82e1\/f0375d650f2c479da07100cc986e30e8.docx",
+				"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7d5db7a4cae5415b82e1\/f0375d650f2c479da07100cc986e30e8.docx",
 				"name": "\u6dc4\u535a\u5e02\u4e2d\u8003\u4eba\u673a\u5bf9\u8bdd01\u5957\u6a21\u62df\u5377.docx"
 			}],
 			"process_user_id": 0,
@@ -74,7 +74,7 @@
 				"description": "",
 				"config": {
 					"title_urls": [{
-						"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/b94cb6db9d054448b296.mp3",
+						"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/b94cb6db9d054448b296.mp3",
 						"content": "\u7b2c\u4e00\u90e8\u5206\u542c\u529b",
 						"size": 3528,
 						"duration": 1.722656,
@@ -99,7 +99,7 @@
 					"config": {
 						"directions_urls": [],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/287138b6e29e4222a916.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/287138b6e29e4222a916.mp3",
 							"content": "\u4e00\u3001\u542c\u77ed\u5bf9\u8bdd\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09",
 							"size": 12672,
 							"duration": 6.1875,
@@ -148,7 +148,7 @@
 									"duration": 21.09375,
 									"size": 43200,
 									"content": "\u4f60\u5c06\u542c\u5230\u4e94\u7ec4\u5bf9\u8bdd\uff0c\u6bcf\u7ec4\u5bf9\u8bdd\u542c\u4e00\u904d\u3002\u542c\u5bf9\u8bdd\u524d\uff0c\u4f60\u670920\u79d2\u949f\u65f6\u95f4\u9605\u8bfb\u6240\u6709\u5c0f\u9898\u3002\u542c\u5b8c\u6bcf\u7ec4\u5bf9\u8bdd\u540e\uff0c\u4f60\u8fd8\u67095\u79d2\u949f\u7684\u65f6\u95f4\u5728\u5c4f\u5e55\u4e0a\u70b9\u51fb\u4f60\u8ba4\u4e3a\u6700\u5408\u9002\u7684\u5907\u9009\u7b54\u6848\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/62a7cc14c85547c99a6f.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/62a7cc14c85547c99a6f.mp3"
 								}],
 								"description_urls": []
 							},
@@ -232,7 +232,7 @@
 								"listen": {
 									"body_urls": [{
 										"name": "WF-JH1M08-A1-1.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/cec3bb5ca5d040149583ad12a2f81425.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/cec3bb5ca5d040149583ad12a2f81425.mp3",
 										"duration": 13.55,
 										"size": 294298,
 										"content": "<p>M: Happy birthday, Alice! Here is a CD for you.<\/p><p>W: Thank you. I love it very much.<\/p>"
@@ -241,7 +241,7 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"end_tip_urls": [],
 									"intervals": 0,
@@ -260,7 +260,7 @@
 										"content": "",
 										"size": 238018,
 										"duration": 6.52,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/de262017dab643339a7b17d5a28f6edc.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/de262017dab643339a7b17d5a28f6edc.mp3",
 										"name": "WF-JH1M08-A1-1-Q.mp3"
 									}]
 								},
@@ -344,7 +344,7 @@
 								"listen": {
 									"body_urls": [{
 										"name": "WF-JH1M08-A1-2.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/2f318a08ddf443b1936371b3ad7b8d5b.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/2f318a08ddf443b1936371b3ad7b8d5b.mp3",
 										"duration": 11.82,
 										"size": 280450,
 										"content": "<p>M: Is your birthday in March?<\/p><p>W: No, my birthday is in the twelfth month of the year.<\/p>"
@@ -353,7 +353,7 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"end_tip_urls": [],
 									"intervals": 0,
@@ -372,7 +372,7 @@
 										"content": "",
 										"size": 245506,
 										"duration": 7.46,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/97527fe0d2114605aad6dd88b339bf3b.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/97527fe0d2114605aad6dd88b339bf3b.mp3",
 										"name": "WF-JH1M08-A1-2-Q.mp3"
 									}]
 								},
@@ -456,7 +456,7 @@
 								"listen": {
 									"body_urls": [{
 										"name": "WF-JH1M08-A1-3.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/e506e50246d048e2b62a04a41bc271f1.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/e506e50246d048e2b62a04a41bc271f1.mp3",
 										"duration": 11.92,
 										"size": 281218,
 										"content": "<p>M: Will you have a birthday party this Sunday?<\/p><p>W: No, I won't. It's my sister's party.<\/p>"
@@ -465,7 +465,7 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"end_tip_urls": [],
 									"intervals": 0,
@@ -484,7 +484,7 @@
 										"content": "",
 										"size": 251266,
 										"duration": 8.18,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/931e92cdc24d4c259ab545748667a4bb.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/931e92cdc24d4c259ab545748667a4bb.mp3",
 										"name": "WF-JH1M08-A1-3-Q.mp3"
 									}]
 								},
@@ -568,7 +568,7 @@
 								"listen": {
 									"body_urls": [{
 										"name": "WF-JH1M08-A1-4.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/7b57a176a3c3496585eda126cd9b7f62.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/7b57a176a3c3496585eda126cd9b7f62.mp3",
 										"duration": 20.51,
 										"size": 349954,
 										"content": "<p>M: Today is May 15th. Is tomorrow your birthday, Kate?<\/p><p>W: Yes, it is. Tomorrow I will be fourteen years old.<\/p><p>M: Happy birthday to you!<\/p>"
@@ -577,7 +577,7 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"end_tip_urls": [],
 									"intervals": 0,
@@ -596,7 +596,7 @@
 										"content": "",
 										"size": 232257,
 										"duration": 5.8,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/f9daa893a3bc4604ba6a5e37d3240a9a.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/f9daa893a3bc4604ba6a5e37d3240a9a.mp3",
 										"name": "WF-JH1M08-A1-4-Q.mp3"
 									}]
 								},
@@ -680,7 +680,7 @@
 								"listen": {
 									"body_urls": [{
 										"name": "WF-JH1M08-A1-5.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/6e68ece533ed41a58e175152b3026cc0.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/6e68ece533ed41a58e175152b3026cc0.mp3",
 										"duration": 20.9,
 										"size": 353026,
 										"content": "<p>M: Tina! What did your father buy for you on your birthday?<\/p><p>W: Oh, I want a camera. But he didn't buy one for me. He bought a basketball.<\/p><p>M: What a pity!<\/p>"
@@ -689,7 +689,7 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"end_tip_urls": [],
 									"intervals": 0,
@@ -708,7 +708,7 @@
 										"content": "",
 										"size": 255490,
 										"duration": 8.7,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/590f61aacd474c69b061b242702c937d.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/916cf5fb35194d45b78c\/590f61aacd474c69b061b242702c937d.mp3",
 										"name": "WF-JH1M08-A1-5-Q.mp3"
 									}]
 								},
@@ -782,7 +782,7 @@
 					"config": {
 						"directions_urls": [],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/db76ae864e5348428ab1.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/db76ae864e5348428ab1.mp3",
 							"content": "\u4e8c\u3001\u542c\u957f\u5bf9\u8bdd\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09",
 							"size": 12600,
 							"duration": 6.152344,
@@ -822,7 +822,7 @@
 							"enunciation": {
 								"description_urls": [],
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/21dfc7c6f1ae4a409f73.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/21dfc7c6f1ae4a409f73.mp3",
 									"content": "\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u5bf9\u8bdd\uff0c\u5bf9\u8bdd\u542c\u4e24\u904d\u3002\u542c\u5bf9\u8bdd\u524d\uff0c\u4f60\u670920\u79d2\u949f\u65f6\u95f4\u9605\u8bfb\u6240\u6709\u5c0f\u9898\u3002\u542c\u5b8c\u5bf9\u8bdd\u540e\uff0c\u6bcf\u5c0f\u9898\u4f60\u8fd8\u67095\u79d2\u949f\u7684\u65f6\u95f4\u5728\u5c4f\u5e55\u4e0a\u70b9\u51fb\u4f60\u8ba4\u4e3a\u6700\u5408\u9002\u7684\u5907\u9009\u7b54\u6848\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
 									"size": 43416,
 									"duration": 21.199219,
@@ -837,10 +837,10 @@
 									"size": 654709,
 									"content": "<p>W: Hi. Tom. Can you help me with my homework about Father Christmas?<\/p><p>M: OK. In Britain, children write letters to Father Christmas, and they ask him for presents.<\/p><p>W: Great. What does he look like?<\/p><p>M: He wears a red hat and a red suit. He is very fat and has white hair and a long white beard.<\/p><p>W: And what does he do?<\/p><p>M: On Christmas Eve, he goes to children's homes and gives them presents at night. He puts the presents in socks.<\/p><p>W: Can kids visit him?<\/p><p>M: Sure. He sometimes goes to shops and children can visit him there and get some presents from him.<\/p><p style=\"text-align:justify;\">W: That's so interesting! Thank you for your great help.<\/p>",
 									"duration": 59.32,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/efba55a0e91d41fe80a618de95193718.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/efba55a0e91d41fe80a618de95193718.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -933,7 +933,7 @@
 										"content": "",
 										"size": 214485,
 										"duration": 3.71,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/4a9ee80073c249099ee3ee9a4e03ff8c.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/4a9ee80073c249099ee3ee9a4e03ff8c.mp3",
 										"name": "ZB-JH3U05-B-Q1.mp3"
 									}]
 								},
@@ -1042,7 +1042,7 @@
 										"content": "",
 										"size": 210261,
 										"duration": 3.18,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/18534e0d681747a7af9975969b230c80.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/18534e0d681747a7af9975969b230c80.mp3",
 										"name": "ZB-JH3U05-B-Q2.mp3"
 									}]
 								},
@@ -1151,7 +1151,7 @@
 										"content": "",
 										"size": 204693,
 										"duration": 2.49,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/f7d458fc87e54970b6db8df018b99796.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/f7d458fc87e54970b6db8df018b99796.mp3",
 										"name": "ZB-JH3U05-B-Q3.mp3"
 									}]
 								},
@@ -1260,7 +1260,7 @@
 										"content": "",
 										"size": 208533,
 										"duration": 2.97,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/4d38a42c4e8f41bb8fe3336efacd7672.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/4d38a42c4e8f41bb8fe3336efacd7672.mp3",
 										"name": "ZB-JH3U05-B-Q4.mp3"
 									}]
 								},
@@ -1369,7 +1369,7 @@
 										"content": "",
 										"size": 206421,
 										"duration": 2.7,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/737c587593f14d2787c14735efc55e0b.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/737c587593f14d2787c14735efc55e0b.mp3",
 										"name": "ZB-JH3U05-B-Q5.mp3"
 									}]
 								},
@@ -1469,7 +1469,7 @@
 					"config": {
 						"directions_urls": [],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/9d0379b7b1d74a49b9eb.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/9d0379b7b1d74a49b9eb.mp3",
 							"content": "\u4e09\u3001\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09",
 							"size": 12168,
 							"duration": 5.941406,
@@ -1509,7 +1509,7 @@
 							"enunciation": {
 								"description_urls": [],
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/feed0e949ae74c79a62d.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/feed0e949ae74c79a62d.mp3",
 									"content": "\u4f60\u5c06\u542c\u5230\u4e00\u7bc7\u77ed\u6587\uff0c\u77ed\u6587\u542c\u4e24\u904d\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u670920\u79d2\u949f\u65f6\u95f4\u9605\u8bfb\u6240\u6709\u5c0f\u9898\u3002\u542c\u5b8c\u77ed\u6587\u540e\uff0c\u6bcf\u5c0f\u9898\u4f60\u8fd8\u67095\u79d2\u949f\u7684\u65f6\u95f4\u5728\u5c4f\u5e55\u4e0a\u70b9\u51fb\u4f60\u8ba4\u4e3a\u6700\u5408\u9002\u7684\u5907\u9009\u7b54\u6848\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
 									"size": 43704,
 									"duration": 21.339844,
@@ -1524,10 +1524,10 @@
 									"size": 960202,
 									"content": "<p style=\"text-align:justify;\">New Year's Day is coming. I'd like to invite my four friends to come to my family dinner party. My parents welcome my friends to come to our house. They would like to cook many delicious and nutritious foods to treat my friends. So I have written a letter of invitation and have sent emails to my four friends. Tim was my classmate in my high school and he has soon replied to my invitation letter. He'll join the dinner party. Alice is a member of our School Sport Club. She also has answered my letter and will try to come to our dinner party on time. Victor is my pen pal and he hasn't replied to my invitation. Bacon is my college classmate and he has answered that he's unable to attend the party because he has planned to travel. I hope my invitation will bring more happiness to my friends.&nbsp;&nbsp;<\/p>",
 									"duration": 97.19,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/11d543d4ca1442d2a45c83fabce4f16f.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/11d543d4ca1442d2a45c83fabce4f16f.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -1620,7 +1620,7 @@
 										"content": "",
 										"size": 215445,
 										"duration": 3.83,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/10c93be2a5024c728553525437fc73e2.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/10c93be2a5024c728553525437fc73e2.mp3",
 										"name": "ZB-JH3U05-C-Q1.mp3"
 									}]
 								},
@@ -1729,7 +1729,7 @@
 										"content": "",
 										"size": 30921,
 										"duration": 5.15,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/30935981293a4856a5f8be509673f37d.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/30935981293a4856a5f8be509673f37d.mp3",
 										"name": "ZB-JH3U05-C-Q2.mp3"
 									}]
 								},
@@ -1838,7 +1838,7 @@
 										"content": "",
 										"size": 210069,
 										"duration": 3.16,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/e6ccd0f10b1d46d9bb268ecf87781828.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/e6ccd0f10b1d46d9bb268ecf87781828.mp3",
 										"name": "ZB-JH3U05-C-Q3.mp3"
 									}]
 								},
@@ -1947,7 +1947,7 @@
 										"content": "",
 										"size": 224854,
 										"duration": 5.01,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/cb23d1efe26d406f8c2d4c86cb605a23.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/cb23d1efe26d406f8c2d4c86cb605a23.mp3",
 										"name": "ZB-JH3U05-C-Q4.mp3"
 									}]
 								},
@@ -2056,7 +2056,7 @@
 										"content": "",
 										"size": 211413,
 										"duration": 3.33,
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/a8fb4acda02b48e3a963e50b983bfa81.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/a8fb4acda02b48e3a963e50b983bfa81.mp3",
 										"name": "ZB-JH3U05-C-Q5.mp3"
 									}]
 								},
@@ -2155,7 +2155,7 @@
 				"description": "",
 				"config": {
 					"title_urls": [{
-						"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/1bedbbf20c9d41729640.mp3",
+						"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/1bedbbf20c9d41729640.mp3",
 						"content": "\u7b2c\u4e8c\u90e8\u5206\u53e3\u8bed",
 						"size": 3600,
 						"duration": 1.757812,
@@ -2179,7 +2179,7 @@
 					"directions": "",
 					"config": {
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/e967061d16f14f83b92b.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/e967061d16f14f83b92b.mp3",
 							"content": "\u56db\u3001\u6717\u8bfb\u77ed\u6587\uff08\u51715\u5206\uff09",
 							"size": 5616,
 							"duration": 2.742188,
@@ -2211,14 +2211,14 @@
 							"is_display_subs": true,
 							"answer_config": {
 								"end_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 									"duration": 1,
 									"size": 1958,
 									"content": "\u5f55\u97f3\u7ed3\u675f"
 								}],
 								"duration": 90,
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 									"duration": 1,
 									"size": 2000,
 									"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -2239,7 +2239,7 @@
 									"duration": 12.304688,
 									"size": 25200,
 									"content": "\u4f60\u670990\u79d2\u949f\u7684\u65f6\u95f4\u719f\u6089\u5c4f\u5e55\u4e0a\u7684\u77ed\u6587\uff0c\u5e76\u4f5c\u6717\u8bfb\u51c6\u5907\u3002\u5728\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u540e\uff0c\u8bf7\u572890\u79d2\u949f\u5185\u6717\u8bfb\u77ed\u6587\u4e00\u904d\u3002",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5ebfcc69cfe847019d80.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5ebfcc69cfe847019d80.mp3"
 								}],
 								"description_urls": []
 							},
@@ -2316,7 +2316,7 @@
 					"directions": "",
 					"config": {
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5fc999d65c1e4062bd5b.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5fc999d65c1e4062bd5b.mp3",
 							"content": "\u4e94\u3001\u60c5\u666f\u95ee\u7b54\uff08\u51713\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98982\u5206\uff0c\u51716\u5206\uff09",
 							"size": 11232,
 							"duration": 5.484375,
@@ -2357,7 +2357,7 @@
 							"enunciation": {
 								"description_urls": [],
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5318c4e8ec584a16af49.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/5318c4e8ec584a16af49.mp3",
 									"content": "\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u82f1\u6587\u5bf9\u8bdd\uff0c\u5bf9\u8bdd\u542c\u4e24\u904d\u3002\u5728\u542c\u5b8c\u5bf9\u8bdd\u5e76\u505a20\u79d2\u949f\u51c6\u5907\u540e\uff0c\u8bf7\u6839\u636e\u542c\u5230\u7684\u5185\u5bb9\u548c\u5c4f\u5e55\u63d0\u793a\uff0c\u7528\u82f1\u8bed\u56de\u7b54\u95ee\u9898\u3002\u6bcf\u5c0f\u9898\u7684\u4f5c\u7b54\u65f6\u95f4\u4e3a15\u79d2\u949f\u3002\u5728\u542c\u5230\u63d0\u793a\u97f3\u540e\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
 									"size": 40752,
 									"duration": 19.898438,
@@ -2372,10 +2372,10 @@
 									"size": 601333,
 									"content": "<p>W: Dad, I want to have a party at home this Sunday evening. Could I invite my friends here?<\/p><p>M: Of course, dear. Sounds fun.<\/p><p>W: Great, you are so nice, Dad. Could you give some money? I need to go shopping and buy some food.<\/p><p>M: Well. I'm going shopping tomorrow. What food and drinks do you need?<\/p><p>W: Let me see... I need some snacks and some juice like apple juice and orange juice.<\/p><p>M: I see. Snacks, apple juice, orange juice. Is that OK?<\/p><p>W: Yes, thank you, Dad.<\/p><p>M: But you should clean the house after the party.<\/p><p>W: OK, I see.<\/p>",
 									"duration": 52.65,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/98674a5e44d64082b728ffb19977bbf1.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/98674a5e44d64082b728ffb19977bbf1.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -2389,14 +2389,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 10,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": false,
@@ -2497,14 +2497,14 @@
 										"content": "\u5f00\u59cb\u5f55\u97f3",
 										"size": 2000,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 									}],
 									"duration": 15,
 									"end_tip_urls": [{
 										"content": "\u5f55\u97f3\u7ed3\u675f",
 										"size": 1958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 									}]
 								},
 								"is_display_subs": false,
@@ -2608,14 +2608,14 @@
 										"content": "\u5f00\u59cb\u5f55\u97f3",
 										"size": 2000,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 									}],
 									"duration": 15,
 									"end_tip_urls": [{
 										"content": "\u5f55\u97f3\u7ed3\u675f",
 										"size": 1958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 									}]
 								},
 								"is_display_subs": false,
@@ -2719,14 +2719,14 @@
 										"content": "\u5f00\u59cb\u5f55\u97f3",
 										"size": 2000,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 									}],
 									"duration": 15,
 									"end_tip_urls": [{
 										"content": "\u5f55\u97f3\u7ed3\u675f",
 										"size": 1958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 									}]
 								},
 								"is_display_subs": false,
@@ -2801,7 +2801,7 @@
 					"directions": "",
 					"config": {
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/1f0ae466a72249e1a935.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/1f0ae466a72249e1a935.mp3",
 							"content": "\u516d\u3001\u8bdd\u9898\u7b80\u8ff0\uff08\u51714\u5206\uff09",
 							"size": 5688,
 							"duration": 2.777344,
@@ -2842,7 +2842,7 @@
 							"enunciation": {
 								"description_urls": [],
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/67b171e46e2e484d862a.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/7823c8e3ef8249968ecf\/67b171e46e2e484d862a.mp3",
 									"content": "\u4f60\u5c06\u542c\u5230\u4e00\u7bc7\u82f1\u6587\u77ed\u6587\uff0c\u77ed\u6587\u542c\u4e24\u904d\uff0c\u5e76\u5728\u5c4f\u5e55\u4e0a\u770b\u5230\u8be5\u77ed\u6587\u7684\u6c49\u8bed\u8981\u70b9\u63d0\u793a\u3002\u5728\u542c\u5b8c\u77ed\u6587\u5e76\u505a60\u79d2\u949f\u51c6\u5907\u540e\uff0c\u8bf7\u6839\u636e\u542c\u5230\u7684\u5185\u5bb9\u548c\u5c4f\u5e55\u63d0\u793a\u8fdb\u884c\u590d\u8ff0\uff0c\u590d\u8ff0\u5185\u5bb9\u9700\u5305\u542b\u6240\u6709\u8981\u70b9\u3002\u5f55\u97f3\u65f6\u95f4\u4e3a90\u79d2\u949f\u3002",
 									"size": 43704,
 									"duration": 21.339844,
@@ -2857,10 +2857,10 @@
 									"size": 695797,
 									"content": "<p>James is a businessman and he is very rich. Next Sunday is his mother's birthday. He wants to hold a great birthday party and buy a nice present for her. The birthday party will be held in a big restaurant. James plans to invite one hundred and twenty people to the party. There will be a large birthday cake in the party. James bought a robot for his mother. It cost him eight hundred dollars. It is very interesting and useful. The robot can chat with people and do housework. Although it is expensive, James thinks it is worth buying. He believes that his mother will like his present and the party.&nbsp;<\/p>",
 									"duration": 64.46,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/c85f1082de8d489a87bf8e16ed8c8113.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/1f0b58a908bb4b5c8364\/c85f1082de8d489a87bf8e16ed8c8113.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -2874,14 +2874,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 90,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,

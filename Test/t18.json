@@ -17,7 +17,7 @@
 					"duration": 3.515625,
 					"size": 7200,
 					"content": "\u804a\u57ce\u542c\u77ed\u6587\u56de\u7b54\u95ee\u9898\u7b2c5\u5957",
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/6ae4fa5cb89444a7a21c.mp3"
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/6ae4fa5cb89444a7a21c.mp3"
 				}]
 			},
 			"status": 1,
@@ -37,7 +37,7 @@
 			"description": "",
 			"url": "",
 			"extra_files": [{
-				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/954b0d73285e4264a6c5204b8830ef04.docx",
+				"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/954b0d73285e4264a6c5204b8830ef04.docx",
 				"name": "\u3010\u804a\u57ce\u3011\u542c\u77ed\u6587\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898 \u7b2c5\u5957.docx"
 			}],
 			"process_user_id": 0,
@@ -92,7 +92,7 @@
 					"directions": "",
 					"config": {
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/4e5f286f0f9942d985d0.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/4e5f286f0f9942d985d0.mp3",
 							"content": "\u542c\u77ed\u6587\u53e3\u5934\u56de\u7b54\u95ee\u9898\uff08\u51715\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98981\u5206\uff0c\u51715\u5206\uff09\u4f60\u5c06\u542c\u5230\u4e00\u6bb5\u77ed\u6587\u3002\u77ed\u6587\u540e\u67095\u4e2a\u5c0f\u9898\uff0c\u8bf7\u6839\u636e\u6240\u542c\u5230\u7684\u95ee\u9898\u548c\u62ec\u53f7\u5185\u7684\u63d0\u793a\uff0c\u53e3\u5934\u56de\u7b54\u95ee\u9898\u3002\u542c\u77ed\u6587\u524d\uff0c\u4f60\u5c06\u6709\u65f6\u95f4\u9605\u8bfb\u5404\u4e2a\u5c0f\u9898\uff0c\u6bcf\u5c0f\u98985\u79d2\u949f\u3002\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u8bf7\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u9009\u62e9\u6b63\u786e\u7684\u4fe1\u606f\u5b8c\u6210\u4f5c\u7b54\uff0c\u4f5c\u7b54\u65f6\u95f4\u4e3a\u6bcf\u5c0f\u98988\u79d2\u949f\u3002\u8be5\u6bb5\u77ed\u6587\u8bfb\u4e24\u904d\u3002",
 							"size": 69120,
 							"duration": 33.75,
@@ -144,10 +144,10 @@
 									"size": 550837,
 									"content": "<p>Many people collect things, like postcards and toys. They like to put them somewhere special to look at. Lingling collects fans and keeps them in her bedroom. Betty collects coins and notes, such as British pounds and US dollars. She also collects stamps from all over the world. Tony collects tickets, but Betty thinks that you cannot do anything with old tickets. Lingling thinks that people also enjoy collecting things to remember something important in their lives.<\/p>",
 									"duration": 46.34,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/a338dce2ace2472c98b2bd9dbb0b9260.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/a338dce2ace2472c98b2bd9dbb0b9260.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -235,7 +235,7 @@
 									"repeat_count": 1,
 									"body_urls": [{
 										"name": "Q1.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/ae41061d6c4d46edb77995883511ecaa.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/ae41061d6c4d46edb77995883511ecaa.mp3",
 										"duration": 1.99,
 										"size": 11957,
 										"content": ""
@@ -343,7 +343,7 @@
 									"repeat_count": 1,
 									"body_urls": [{
 										"name": "Q2.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/4e39e80d7ccb499892e126347894671c.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/4e39e80d7ccb499892e126347894671c.mp3",
 										"duration": 3.11,
 										"size": 18696,
 										"content": ""
@@ -451,7 +451,7 @@
 									"repeat_count": 1,
 									"body_urls": [{
 										"name": "Q3.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/6f64bdcc6c2142fa94f87ef16ce6cf35.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/6f64bdcc6c2142fa94f87ef16ce6cf35.mp3",
 										"duration": 1.96,
 										"size": 11800,
 										"content": ""
@@ -559,7 +559,7 @@
 									"repeat_count": 1,
 									"body_urls": [{
 										"name": "Q4.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/b42731c2d6f54ec099ee5bcafc9cd8fb.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/b42731c2d6f54ec099ee5bcafc9cd8fb.mp3",
 										"duration": 1.88,
 										"size": 11330,
 										"content": ""
@@ -667,7 +667,7 @@
 									"repeat_count": 1,
 									"body_urls": [{
 										"name": "Q5.mp3",
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/24cc90ba27c24de59e45afe5714da188.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/8b2764b1775441648941\/24cc90ba27c24de59e45afe5714da188.mp3",
 										"duration": 3.19,
 										"size": 19166,
 										"content": ""

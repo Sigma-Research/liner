@@ -12,7 +12,7 @@
 			"channel_uid": "",
 			"config": {
 				"name_urls": [{
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/ed9ab4948117455c9686.mp3",
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/ed9ab4948117455c9686.mp3",
 					"content": "\u4e13\u9879\u7ec3\u4e60-\u8868\u683c\u548c\u56fe\u7247",
 					"size": 5616,
 					"duration": 2.742188,
@@ -94,7 +94,7 @@
 							"duration": 3.375,
 							"size": 6912,
 							"content": "\u542c\u540e\u8bb0\u5f55\u5e76\u8f6c\u8ff0\u4fe1\u606f\uff08\u517110\u5206\uff09",
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/04f203b3ea9c4829a94e.mp3"
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/04f203b3ea9c4829a94e.mp3"
 						}],
 						"directions_urls": []
 					},
@@ -133,7 +133,7 @@
 							"preparation_time": 0,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/120eaa50abb041b089cd\/438b75172614480bbf55.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/120eaa50abb041b089cd\/438b75172614480bbf55.mp3",
 									"content": "\u672c\u5927\u9898\u5171\u5305\u542b\u4e24\u8282\u3002\u7b2c\u4e00\u8282\uff0c\u542c\u4e24\u904d\u77ed\u6587\uff0c\u7136\u540e\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\u5c06\u6240\u7f3a\u4fe1\u606f\u8865\u5168\u3002\u4f60\u5c06\u670960\u79d2\u949f\u65f6\u95f4\u8bfb\u9898\uff0c90\u79d2\u949f\u65f6\u95f4\u8865\u5168\u6240\u7f3a\u4fe1\u606f\u3002\uff083-5\u4e2a\u7a7a\uff0c\u6bcf\u7a7a1\u5206\uff0c\u51713-5\u5206\uff0c\u8bf7\u7f16\u8f91\u6839\u636e\u6240\u6316\u7a7a\u6570\u91cf\uff0c\u5bf9\u5206\u503c\u63cf\u8ff0\u8fdb\u884c\u76f8\u5e94\u8c03\u6574\uff09\u7b2c\u4e8c\u8282\uff0c\u542c\u7b2c\u4e09\u904d\u77ed\u6587\uff0c\u7136\u540e\u6839\u636e\u6240\u542c\u5185\u5bb9\u548c\u63d0\u793a\u4fe1\u606f\u8fdb\u884c\u8f6c\u8ff0\u3002\u4f60\u5c06\u67092\u5206\u949f\u51c6\u5907\u65f6\u95f4\u4ee5\u53ca2\u5206\u949f\u5f55\u97f3\u4f5c\u7b54\u65f6\u95f4\u3002\uff085\u5206\uff09",
 									"size": 78336,
 									"duration": 38.25,
@@ -226,10 +226,10 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"body_urls": [{
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/6704f275dae94909ac40480658a01799.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/6704f275dae94909ac40480658a01799.mp3",
 										"duration": "52.61",
 										"content": "<p style=\"text-align:justify;\">My grandpa is a great man. When he is 36, he moves to USA from China. When he comes to USA, he can\u2019t speak English. But he studies it hard and learns it well. When he is 45, he opens a clothes shop for women.&nbsp; There are many beautiful dresses in his shop. Everyday, lots of women come to buy dresses they like. He works late at night. Later, he opens many shops in America. He often teaches me to work hard to be a great man.<\/p>",
 										"size": 9280316,
@@ -319,14 +319,14 @@
 								"is_display_subs": true,
 								"answer_config": {
 									"end_tip_urls": [{
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3",
 										"duration": 1,
 										"size": 1958,
 										"content": "\u5f55\u97f3\u7ed3\u675f"
 									}],
 									"duration": 60,
 									"start_tip_urls": [{
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3",
 										"duration": 1,
 										"size": 2000,
 										"content": "\u5f00\u59cb\u5f55\u97f3"
@@ -340,10 +340,10 @@
 										"content": "<p>\u6ef4<\/p>",
 										"size": 958,
 										"duration": 1,
-										"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+										"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 									}],
 									"body_urls": [{
-										"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/cc8db1f7aaab4c708c26465fd4db3adb.mp3",
+										"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/cc8db1f7aaab4c708c26465fd4db3adb.mp3",
 										"duration": "52.61",
 										"content": "<p style=\"text-align:justify;\">My grandpa is a great man. When he is 36, he moves to USA from China. When he comes to USA, he can\u2019t speak English. But he studies it hard and learns it well. When he is 45, he opens a clothes shop for women.&nbsp; There are many beautiful dresses in his shop. Everyday, lots of women come to buy dresses they like. He works late at night. Later, he opens many shops in America. He often teaches me to work hard to be a great man.<\/p>",
 										"size": 9280316,
@@ -445,10 +445,10 @@
 									"content": "<p>\u6ef4<\/p>",
 									"size": 958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 								}],
 								"body_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/24c45ba5418343a1b4eba7a9c890c6e1.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/24c45ba5418343a1b4eba7a9c890c6e1.mp3",
 									"duration": "4.66",
 									"content": "<p>We took a tour by coach to the Daming Lake.<\/p>",
 									"size": 822164,
@@ -459,7 +459,7 @@
 							"preparation_time": 0,
 							"enunciation": {
 								"directions_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/120eaa50abb041b089cd\/139990007aa9495591e0.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/120eaa50abb041b089cd\/139990007aa9495591e0.mp3",
 									"content": "\u542c\u53e5\u5b50\uff0c\u9009\u62e9\u4e0e\u53e5\u5b50\u5185\u5bb9\u76f8\u5bf9\u5e94\u7684\u56fe\u7247\uff0c\u6bcf\u4e2a\u53e5\u5b50\u8bfb\u4e24\u904d\u3002\uff08\u6ee1\u520610\u5206\uff09",
 									"size": 14400,
 									"duration": 7.03125,
@@ -468,7 +468,7 @@
 								"description_urls": []
 							},
 							"multiple": false,
-							"options": ["<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd51ab150a45c437d8367da63da9f3b23.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb985b20e381d441eaff22e34cc5156ad.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q4c56e9e8e40b4afe96f233fd2725684f.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe594cd1cdc5d4d03bc4f1210c105aa33.png\"><\/figure>"],
+							"options": ["<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd51ab150a45c437d8367da63da9f3b23.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb985b20e381d441eaff22e34cc5156ad.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q4c56e9e8e40b4afe96f233fd2725684f.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe594cd1cdc5d4d03bc4f1210c105aa33.png\"><\/figure>"],
 							"display_directions": true,
 							"display_body_text": true,
 							"display_body_audios": false,
@@ -540,7 +540,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "4",
-						"body": "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0f2408f58bf04572880ceec1eb441f1e.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0cbaddb400d349898f66cde2d8b60dbb.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q548f0fe526ee4f4aa52519f850d5d7c5.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q2d5f936fe09d4613aa33ce2a8b6082e5.png\"><\/figure>",
+						"body": "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0f2408f58bf04572880ceec1eb441f1e.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0cbaddb400d349898f66cde2d8b60dbb.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q548f0fe526ee4f4aa52519f850d5d7c5.png\"><\/figure><figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q2d5f936fe09d4613aa33ce2a8b6082e5.png\"><\/figure>",
 						"answer": ["D"],
 						"config": {
 							"is_reference": false,
@@ -559,10 +559,10 @@
 									"content": "<p>\u6ef4<\/p>",
 									"size": 958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3"
 								}],
 								"body_urls": [{
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/1b64c183564e4b399e12288e50a4e703.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/120eaa50abb041b089cd\/1b64c183564e4b399e12288e50a4e703.mp3",
 									"duration": "10.36",
 									"content": "<p>In 1919, a pilot named Charles Lindbergh from America, tried to fly from New York to Paris.<\/p>",
 									"size": 1828220,
@@ -576,7 +576,7 @@
 								"description_urls": []
 							},
 							"multiple": false,
-							"options": ["<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd2218c0a87054ccf811cc159cd7f03a4.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0f2408f58bf04572880ceec1eb441f1e.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0cbaddb400d349898f66cde2d8b60dbb.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q2d5f936fe09d4613aa33ce2a8b6082e5.png\"><\/figure>"],
+							"options": ["<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd2218c0a87054ccf811cc159cd7f03a4.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0f2408f58bf04572880ceec1eb441f1e.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q0cbaddb400d349898f66cde2d8b60dbb.png\"><\/figure>", "<figure class=\"image image-style-align-left\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q2d5f936fe09d4613aa33ce2a8b6082e5.png\"><\/figure>"],
 							"display_directions": true,
 							"display_body_text": true,
 							"display_body_audios": false,

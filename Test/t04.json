@@ -17,7 +17,7 @@
 					"duration": 5.835938,
 					"size": 11952,
 					"content": "\u65e5\u7167\u4eba\u53eb\u7248\u4e5d\u5e74\u7ea7\u5168\u4e00\u518c\u7b2c11\u5355\u5143\u542c\u8bf4\u6d4b\u8bd5\uff08\u4e8c\uff09",
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/d40517d0365f4966915a.mp3"
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/d40517d0365f4966915a.mp3"
 				}]
 			},
 			"status": 1,
@@ -37,7 +37,7 @@
 			"description": "",
 			"url": "",
 			"extra_files": [{
-				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/2574d46e60e346279b93\/e8a7dbfdb2cd4e149a5f541fe2499049.docx",
+				"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/2574d46e60e346279b93\/e8a7dbfdb2cd4e149a5f541fe2499049.docx",
 				"name": "\u65e5\u7167\u5e02\u4e2d\u8003\u4eba\u673a\u5bf9\u8bdd01\u5957\u6a21\u62df\u5377.docx"
 			}],
 			"process_user_id": 0,
@@ -92,7 +92,7 @@
 					"directions": "\u4f60\u5c06\u770b\u5230\u4e94\u5e45\u56fe\u7247\uff0c\u9488\u5bf9\u6bcf\u5e45\u56fe\u7247\u90fd\u4f1a\u63d0\u51fa\u4e00\u4e2a\u95ee\u9898\uff0c\u6bcf\u4e2a\u95ee\u9898\u64ad\u653e\u4e24\u904d\u3002\u6bcf\u5c0f\u9898\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u770b\u6240\u7ed9\u56fe\u7247\u663e\u793a\u7684\u60c5\u666f\uff0c\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u63d0\u793a\u540e\uff0c\u8bf7\u7528\u82f1\u8bed\u572815\u79d2\u949f\u5185\u56de\u7b54\u95ee\u9898\uff0c\u673a\u5668\u81ea\u52a8\u5f55\u97f3\u3002\u5f53\u4f60\u542c\u5230\u201c\u505c\u6b62\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u5e94\u7acb\u5373\u7ec8\u6b62\u56de\u7b54\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
 					"config": {
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/57287e6cda294683bd42\/ca3aa74bb8494f00b567.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/57287e6cda294683bd42\/ca3aa74bb8494f00b567.mp3",
 							"content": "\u7b2c\u4e09\u90e8\u5206\u60c5\u666f\u5bf9\u8bdd\uff08\u51715\u5c0f\u9898\uff1b\u6bcf\u5c0f\u98981\u5206\uff0c\u6ee1\u52065\u5206\uff09",
 							"size": 12312,
 							"duration": 6.011719,
@@ -100,7 +100,7 @@
 						}],
 						"description_urls": [],
 						"directions_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/57287e6cda294683bd42\/d9136253ee2d45c9aa8f.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/57287e6cda294683bd42\/d9136253ee2d45c9aa8f.mp3",
 							"content": "\u4f60\u5c06\u770b\u5230\u4e94\u5e45\u56fe\u7247\uff0c\u9488\u5bf9\u6bcf\u5e45\u56fe\u7247\u90fd\u4f1a\u63d0\u51fa\u4e00\u4e2a\u95ee\u9898\uff0c\u6bcf\u4e2a\u95ee\u9898\u64ad\u653e\u4e24\u904d\u3002\u6bcf\u5c0f\u9898\u4f60\u670915\u79d2\u949f\u7684\u65f6\u95f4\u770b\u6240\u7ed9\u56fe\u7247\u663e\u793a\u7684\u60c5\u666f\uff0c\u5f53\u542c\u5230\u201c\u5f00\u59cb\u5f55\u97f3\u201d\u7684\u63d0\u793a\u540e\uff0c\u8bf7\u7528\u82f1\u8bed\u572815\u79d2\u949f\u5185\u56de\u7b54\u95ee\u9898\uff0c\u673a\u5668\u81ea\u52a8\u5f55\u97f3\u3002\u5f53\u4f60\u542c\u5230\u201c\u505c\u6b62\u5f55\u97f3\u201d\u7684\u4fe1\u53f7\u65f6\uff0c\u5e94\u7acb\u5373\u7ec8\u6b62\u56de\u7b54\uff0c\u8fdb\u5165\u4e0b\u4e00\u5c0f\u9898\u3002",
 							"size": 56520,
 							"duration": 27.597656,
@@ -120,7 +120,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "1",
-						"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q6ada5324214b42b08c3778c156c93ea9.png\"><\/figure>",
+						"body": "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q6ada5324214b42b08c3778c156c93ea9.png\"><\/figure>",
 						"answer": ["Yes, it does.@@Yes, it makes him happy.@@Yes, sport makes him happy.@@Yes."],
 						"config": {
 							"rel_approved_info": {
@@ -135,7 +135,7 @@
 									"content": "",
 									"size": 215030,
 									"duration": 5.7,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/c332c2d3a6504760b33dcca18343674c.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/c332c2d3a6504760b33dcca18343674c.mp3",
 									"name": "RZ-JH5U11-C1-1.mp3"
 								}]
 							},
@@ -160,14 +160,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 15,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,
@@ -239,7 +239,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "2",
-						"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q00c84d100afd4bea96eba46606fe9b7a.png\"><\/figure>",
+						"body": "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q00c84d100afd4bea96eba46606fe9b7a.png\"><\/figure>",
 						"answer": ["Yes, she does.@@Yes, she feels good about the TV program.@@Yes, she feels good.@@Yes."],
 						"config": {
 							"rel_approved_info": {
@@ -254,7 +254,7 @@
 									"content": "",
 									"size": 219262,
 									"duration": 5.7,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/08101d051bfb41e599b90c7296f8562f.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/08101d051bfb41e599b90c7296f8562f.mp3",
 									"name": "RZ-JH5U11-C1-2.mp3"
 								}]
 							},
@@ -279,14 +279,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 15,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,
@@ -358,7 +358,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "3",
-						"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qab949e8057474d5abb06c662c48ed229.png\"><\/figure>",
+						"body": "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qab949e8057474d5abb06c662c48ed229.png\"><\/figure>",
 						"answer": ["Flying a kite.@@Flying kites.@@Flying a kite makes him excited.@@Flying kites makes him excited.@@Flying a kite in a park makes him excited.@@Flying kites in a park makes him excited.@@Flying a kite in the park makes him excited.@@Flying kites in the park makes him excited.@@Flying a kite outside makes him excited.@@Flying kites outside makes him excited."],
 						"config": {
 							"rel_approved_info": {
@@ -373,7 +373,7 @@
 									"content": "",
 									"size": 215806,
 									"duration": 3.74,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/1f29ad90107143478cc0c5214c7c2b86.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/1f29ad90107143478cc0c5214c7c2b86.mp3",
 									"name": "RZ-JH5U11-C1-3.mp3"
 								}]
 							},
@@ -398,14 +398,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 15,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,
@@ -477,7 +477,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "4",
-						"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q3628ab64f4d34e1798c683676aaa99e4.png\"><\/figure>",
+						"body": "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q3628ab64f4d34e1798c683676aaa99e4.png\"><\/figure>",
 						"answer": ["Bored.@@Tired.@@The homework makes him feel bored.@@The homework makes him bored.@@The homework makes him feel tired.@@The homework makes him tired."],
 						"config": {
 							"rel_approved_info": {
@@ -492,7 +492,7 @@
 									"content": "",
 									"size": 218110,
 									"duration": 4.02,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/aa3e0295d044447781635bbf00631658.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/aa3e0295d044447781635bbf00631658.mp3",
 									"name": "RZ-JH5U11-C1-4.mp3"
 								}]
 							},
@@ -517,14 +517,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 15,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,
@@ -596,7 +596,7 @@
 						"description": "<p>&nbsp;<\/p>",
 						"year": 2019,
 						"doi": "5",
-						"body": "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q6848e9b2ddb446288cf9e6cf66afa56c.png\"><\/figure>",
+						"body": "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q6848e9b2ddb446288cf9e6cf66afa56c.png\"><\/figure>",
 						"answer": ["Because a student uses his phone in class.@@Because a student answers his phone in class.@@A student uses his phone in class.@@A student answers his phone in class.@@Because a boy uses his phone in class.@@Because a boy answers his phone in class.@@A boy uses his phone in class.@@A boy answers his phone in class."],
 						"config": {
 							"rel_approved_info": {
@@ -611,7 +611,7 @@
 									"content": "",
 									"size": 218302,
 									"duration": 4.05,
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/4f9f5b53a1024efb80cd0d061063b6d2.mp3",
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/809b18b44bc94fb1aa50\/4f9f5b53a1024efb80cd0d061063b6d2.mp3",
 									"name": "RZ-JH5U11-C1-5.mp3"
 								}]
 							},
@@ -636,14 +636,14 @@
 									"content": "\u5f00\u59cb\u5f55\u97f3",
 									"size": 2000,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-START_REC.mp3"
 								}],
 								"duration": 15,
 								"end_tip_urls": [{
 									"content": "\u5f55\u97f3\u7ed3\u675f",
 									"size": 1958,
 									"duration": 1,
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-END_REC.mp3"
 								}]
 							},
 							"is_display_subs": true,

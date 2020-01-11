@@ -17,7 +17,7 @@
 					"duration": 3.972656,
 					"size": 8136,
 					"content": "\u6f4d\u574a\u5e02\u4e2d\u8003\u4eba\u673a\u5bf9\u8bdd01\u5957\u6a21\u62df\u5377",
-					"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/c5771b17b6344a4f9fef.mp3"
+					"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/c5771b17b6344a4f9fef.mp3"
 				}]
 			},
 			"status": 1,
@@ -37,7 +37,7 @@
 			"description": "",
 			"url": "",
 			"extra_files": [{
-				"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/13f728e342184ec290a12e0fa1a2b0e8.doc",
+				"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/13f728e342184ec290a12e0fa1a2b0e8.doc",
 				"name": "\u6f4d\u574a\u5e02\u4e2d\u8003\u4eba\u673a\u5bf9\u8bdd01\u5957\u6a21\u62df\u9898.doc"
 			}],
 			"process_user_id": 0,
@@ -93,7 +93,7 @@
 					"config": {
 						"directions_urls": [],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/a4cd7d8f7ee045a1bd8b.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/a4cd7d8f7ee045a1bd8b.mp3",
 							"content": "\u4e00\u3001\u542c\u529b\u6d4b\u8bd5\uff08\u517120\u5c0f\u9898\uff1b\u6bcf\u5c0f\u98981\u5206\uff0c\u6ee1\u520620\u5206\uff09",
 							"size": 11880,
 							"duration": 5.800781,
@@ -125,7 +125,7 @@
 							"display_body_audios": false,
 							"display_body_text": true,
 							"display_directions": true,
-							"options": ["<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qf104f7c47d01482d992fb89f44841213.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q64d499e4ea3047b5b985a88566bdf9be.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qaeff3c4aa08d4645ae144c386584f2fd.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qcb4003b8048641fbad7d4caa83e4a610.png\"><\/figure>"],
+							"options": ["<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qf104f7c47d01482d992fb89f44841213.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q64d499e4ea3047b5b985a88566bdf9be.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qaeff3c4aa08d4645ae144c386584f2fd.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qcb4003b8048641fbad7d4caa83e4a610.png\"><\/figure>"],
 							"multiple": false,
 							"enunciation": {
 								"description_urls": [],
@@ -134,7 +134,7 @@
 									"duration": 7.207031,
 									"size": 14760,
 									"content": "\uff08\u4e00\uff09\u542c\u53e5\u5b50\uff0c\u9009\u62e9\u4e0e\u53e5\u5b50\u5185\u5bb9\u76f8\u5bf9\u5e94\u7684\u56fe\u7247\uff0c\u6bcf\u4e2a\u53e5\u5b50\u8bfb\u4e24\u904d\u3002\uff083\u5206\uff09",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/a5e619e54ba843728907.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/a5e619e54ba843728907.mp3"
 								}]
 							},
 							"preparation_time": 10,
@@ -145,10 +145,10 @@
 									"size": 189170,
 									"content": "<p>We took a tour by coach to the Daming Lake.<\/p>",
 									"duration": "4.70",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/ccee7b2a3548430e8b3c6d89a3a4fed4.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/ccee7b2a3548430e8b3c6d89a3a4fed4.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -247,7 +247,7 @@
 							"display_body_audios": false,
 							"display_body_text": true,
 							"display_directions": true,
-							"options": ["<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe0c13dbbce6a45df9005c3cb8a3e2881.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd6b03002a13a44a5bede9396eae8d7be.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qc8fe45c0d4da4f0eae9d6d240197a723.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb5e5fe2f669548d19bcf1a199afe63a8.png\"><\/figure>"],
+							"options": ["<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe0c13dbbce6a45df9005c3cb8a3e2881.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qd6b03002a13a44a5bede9396eae8d7be.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qc8fe45c0d4da4f0eae9d6d240197a723.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb5e5fe2f669548d19bcf1a199afe63a8.png\"><\/figure>"],
 							"multiple": false,
 							"enunciation": {
 								"description_urls": [],
@@ -261,10 +261,10 @@
 									"size": 416958,
 									"content": "<p>In 1919, a pilot named Charles Lindbergh from America, tried to fly from New York to Paris.<\/p>",
 									"duration": "10.40",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/856f7246e3b34c338d0c652aa5797522.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/856f7246e3b34c338d0c652aa5797522.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -363,7 +363,7 @@
 							"display_body_audios": false,
 							"display_body_text": true,
 							"display_directions": true,
-							"options": ["<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe862dfac34dd4b279a73b4ffb0409df9.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q03c5ab99322d4289a052cc24ced2ef0b.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb24200cc3fec455cb465858a769ad8ae.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q69d0a000a7904cb99c25c4724dc570ba.png\"><\/figure>"],
+							"options": ["<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qe862dfac34dd4b279a73b4ffb0409df9.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q03c5ab99322d4289a052cc24ced2ef0b.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/qb24200cc3fec455cb465858a769ad8ae.png\"><\/figure>", "<figure class=\"image\"><img src=\"http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/image\/public\/q69d0a000a7904cb99c25c4724dc570ba.png\"><\/figure>"],
 							"multiple": false,
 							"enunciation": {
 								"description_urls": [],
@@ -377,10 +377,10 @@
 									"size": 291570,
 									"content": "<p>Concorde could carry one hundred passengers and flew faster than the speed of sound.<\/p>",
 									"duration": "7.26",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/409cbb2e9d3740a680f21dcb09a6548a.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/409cbb2e9d3740a680f21dcb09a6548a.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -473,7 +473,7 @@
 					"config": {
 						"directions_urls": [],
 						"title_urls": [{
-							"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/57871546727842928e5c.mp3",
+							"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/57871546727842928e5c.mp3",
 							"content": "\uff08\u4e09\uff09\u542c\u5bf9\u8bdd\uff0c\u6839\u636e\u5bf9\u8bdd\u5185\u5bb9\u9009\u62e9\u6bcf\u4e2a\u95ee\u9898\u7684\u6700\u4f73\u7b54\u6848\uff0c\u5bf9\u8bdd\u8bfb\u4e24\u904d\u3002\uff086\u5206\uff09",
 							"size": 16128,
 							"duration": 7.875,
@@ -512,7 +512,7 @@
 									"duration": 4.5,
 									"size": 9216,
 									"content": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5bf9\u8bdd\uff0c\u56de\u7b54\u7b2c10\u81f312\u5c0f\u9898",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/28a87717dfce49959b2d.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/28a87717dfce49959b2d.mp3"
 								}]
 							},
 							"preparation_time": 10,
@@ -523,10 +523,10 @@
 									"size": 282166,
 									"content": "<p>W: Hi, Alex! Here. Don't you remember me?<\/p><p>M: Oh, wow, you are Mary, aren't you?<\/p><p>W: That's right. It's a long time since we graduated.<\/p><p>M: But you used to have&nbsp;short&nbsp;hair, didn't you?<\/p><p>W: Yes, I did. I remember you used to play football after school.<\/p><p>M: Yes, but now I take up swimming instead.<\/p><p>W: No wonder you look so energetic.<\/p><p>M: People sure change.<\/p>",
 									"duration": "35.24",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/a78dfb75cf05483880324727695d0087.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/a78dfb75cf05483880324727695d0087.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
@@ -937,7 +937,7 @@
 									"duration": 4.640625,
 									"size": 9504,
 									"content": "\u542c\u4e0b\u9762\u4e00\u6bb5\u5bf9\u8bdd\uff0c\u56de\u7b54\u7b2c13\u81f315\u5c0f\u9898",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/f537e040df5d42a68561.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/\/listening\/public\/paper\/969e10dbfb99490e93f3\/f537e040df5d42a68561.mp3"
 								}]
 							},
 							"preparation_time": 10,
@@ -948,10 +948,10 @@
 									"size": 350920,
 									"content": "<p>M: Hi, Mingming! How was your holiday?<\/p><p>W: Not bad. I went to Hubei&nbsp;Province to visit my cousins.<\/p><p>M: How long did it take you to go there?<\/p><p>W: Well, I went there by train. It took me more than five&nbsp;hours.<\/p><p>M: It's not very long, right? You must have enjoyed the train trip.<\/p><p>W: Not really. The train was so crowded that I had to stand all the time.<\/p><p>M: What bad luck! Why is it so difficult to travel in winter?<\/p><p>W: It is the busiest season in China because of the Spring Festival.<\/p>",
 									"duration": "43.83",
-									"url": "http:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/41423a7317dd40999fead7e6ce1af60b.mp3"
+									"url": "http:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/paper\/969e10dbfb99490e93f3\/41423a7317dd40999fead7e6ce1af60b.mp3"
 								}],
 								"start_tip_urls": [{
-									"url": "https:\/\/sigma-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
+									"url": "https:\/\/ai-content-bank.oss-cn-shanghai.aliyuncs.com\/listening\/public\/static\/SYS-BEEP.mp3",
 									"duration": 1,
 									"size": 958,
 									"content": "<p>\u6ef4<\/p>"
