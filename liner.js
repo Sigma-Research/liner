@@ -105,6 +105,8 @@ function _extractQuestion(question) {
     let _question = {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
+        type: question.type,
+        answer: question.answer
     };
 
     _question.displayDirection = !!question.config.display_directions;
