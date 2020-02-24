@@ -106,7 +106,8 @@ function _extractQuestion(question) {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
         type: question.type,
-        answer: question.answer
+        answer: question.answer,
+        score: question.score
     };
 
     _question.displayDirection = !!question.config.display_directions;
