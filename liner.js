@@ -106,9 +106,12 @@ function _extractQuestion(question) {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
         type: question.type,
-        answer: question.answer,
-        score: question.score
     };
+
+    if (question.rel_old_type_id !== 6) {
+        _question.answer = question.answer;
+        _question.score = question.score;
+    }
 
     _question.displayDirection = !!question.config.display_directions;
     _question.displayBody = !!question.config.display_body_text;
