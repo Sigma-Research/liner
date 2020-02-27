@@ -2228,7 +2228,7 @@
                                         "is_independent_display": true,
                                         "is_reference": false
                                     },
-                                    "type": 86,
+                                    "type": 94,
                                     "status": 1,
                                     "region_id": 3,
                                     "subject_id": 3,
@@ -2635,7 +2635,7 @@
                                                 "is_independent_display": false,
                                                 "is_reference": false
                                             },
-                                            "type": 86,
+                                            "type": 100,
                                             "status": 1,
                                             "region_id": 3,
                                             "subject_id": 3,
