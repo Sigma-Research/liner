@@ -284,6 +284,11 @@ module.exports = paper => {
         ruleId: "20191224",
         ruleDoc: "https://shimo.im/docs/GRccGPtKCPhG68yR",
         uid: paper.uid,
+        info: {
+            regionId: paper.region_id,
+            stageId: paper.stage_id,
+            subjectId: paper.subject_id,
+        },
         pages,
         groupRefs,
         containerRefs
