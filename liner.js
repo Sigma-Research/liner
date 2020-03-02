@@ -172,8 +172,8 @@ function _extractQuestion(question) {
         _question.answerEndAudio = question.config.answer_config.end_tip_urls[0].url;
     }
 
-    if (question.q_index !== undefined)
-        _question.q_index = question.q_index;
+    if (question.qIndex !== undefined)
+        _question.qIndex = question.qIndex;
     if (question.containerRef)
         _question.containerRef = question.containerRef;
     if (question.groupRef)
@@ -201,12 +201,12 @@ function _handleQuestion(questions, container) {
 
         questions.forEach((question, index) => {
             let _question = _extractQuestion(question);
-            _question.q_index = index;
+            _question.qIndex = index;
             if (question.rel_old_type_id !== 6) { //不是材料题
                 _createQuestionPage([_question],container);
             }
             else {
-                question.q_index = index;
+                question.qIndex = index;
                 question.groupRef = container.uid;
                 _handleQuestion(question.subs, question);
             }
@@ -226,13 +226,13 @@ function _handleQuestion(questions, container) {
                     }
                     //独立显示的题目页面
                     let _question = _extractQuestion(question);
-                    _question.q_index = index;
+                    _question.qIndex = index;
                     _createQuestionPage([_question], container);
                 }
                 else {
                     if (container.config.is_display_subs) { //外层显示全部子题
                         let _question = _extractQuestion(question);
-                        _question.q_index = index;
+                        _question.qIndex = index;
                         continuousQuestions.push(_question);
                     }
                     else { //外层不显示全部，题目自身也不独立显示，跳过
@@ -247,7 +247,7 @@ function _handleQuestion(questions, container) {
                     continuousQuestions = [];
                 }
 
-                question.q_index = index;
+                question.qIndex = index;
                 question.containerRef = container.uid;
                 _handleQuestion(question.subs, question);
             }
