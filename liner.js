@@ -4,6 +4,7 @@ let groupRefs = []; //组对象 引用列表
 let containerRefs = []; //容器对象 引用列表
 
 let lastQuestion = null;
+let g_index = -1; //实际题目（非容器）全局索引
 
 function _createPaperPage(paper) {
     let _paper = {
@@ -106,7 +107,6 @@ function _extractQuestion(question) {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
         type: question.type,
-        index: question.index,
     };
 
     if (question.rel_old_type_id !== 6) {
@@ -199,6 +199,8 @@ function _handleQuestion(questions, container) {
             let _question = _extractQuestion(question);
             _question.qIndex = index;
             if (question.rel_old_type_id !== 6) { //不是材料题
+                g_index += 1;
+                _question.index = g_index;
                 _createQuestionPage([_question],container);
             }
             else {
@@ -214,6 +216,7 @@ function _handleQuestion(questions, container) {
         let continuousQuestions = []; //连续显示的子题
         questions.forEach((question, index) => {
             if (question.rel_old_type_id !== 6) { //不是材料题
+                g_index += 1;
                 if (question.config.is_independent_display) {
                     //先把之前连续显示的子题 存档，如果有的话
                     if (continuousQuestions.length > 0) {
@@ -223,12 +226,14 @@ function _handleQuestion(questions, container) {
                     //独立显示的题目页面
                     let _question = _extractQuestion(question);
                     _question.qIndex = index;
+                    _question.index = g_index;
                     _createQuestionPage([_question], container);
                 }
                 else {
                     if (container.config.is_display_subs) { //外层显示全部子题
                         let _question = _extractQuestion(question);
                         _question.qIndex = index;
+                        _question.index = g_index;
                         continuousQuestions.push(_question);
                     }
                     else { //外层不显示全部，题目自身也不独立显示，跳过
@@ -261,6 +266,7 @@ module.exports = paper => {
     groupRefs = [];
     containerRefs = [];
     lastQuestion = null;
+    g_index = -1;
 
     if (paper.name && !paper.name.match(/^\s+$/)) {
         _createPaperPage(paper);
