@@ -106,6 +106,7 @@ function _extractQuestion(question) {
         uid: question.uid,
         relOldTypeId: question.rel_old_type_id,
         type: question.type,
+        index: question.index,
     };
 
     if (question.rel_old_type_id !== 6) {
