@@ -180,12 +180,7 @@ function _extractQuestion(question) {
         _question.groupRef = question.groupRef;
 
     if (question.config.is_reference && lastQuestion && lastQuestion.body) {
-        if (!_question.body) {
-            _question.body = lastQuestion.body;
-        }
-        else {
-            _question.body = lastQuestion.body + _question.body;
-        }
+        _question.refBody = lastQuestion.body;
     }
     if (_question.relOldTypeId !== 6) { //引用前一题，前一题不能是容器
         lastQuestion = _question;
