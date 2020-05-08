@@ -176,6 +176,10 @@ function _extractQuestion(question) {
         question.config.answer_config.end_tip_urls[0].url) {
         _question.answerEndAudio = question.config.answer_config.end_tip_urls[0].url;
     }
+    if (question.config.correct_keywords && question.config.correct_keywords.length > 0)
+        _question.correctKeywords = question.config.correct_keywords;
+    if (question.config.error_keywords && question.config.error_keywords.length > 0)
+        _question.errorKeywords = question.config.error_keywords;
 
     if (question.qIndex !== undefined)
         _question.qIndex = question.qIndex;
