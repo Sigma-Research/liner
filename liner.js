@@ -139,7 +139,7 @@ function _extractQuestion(question) {
     _question.doi = question.customize_doi ? question.customize_doi : question.doi;
 
     if (_question.relOldTypeId === 1) {
-        _question.multiple = question.config.multiple;
+        _question.multiple = !!question.config.multiple;
         _question.options = question.config.options;
     }
     if (question.config.enunciation.directions_urls.length > 0 &&
